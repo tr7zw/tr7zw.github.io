@@ -17,17 +17,16 @@
       <pubDate>Fri, 14 May 2021 13:23:14 +0200</pubDate>
       
       <guid>https://tr7zw.github.io/project/3dskinlayers/</guid>
-      <description>3d Skin Layers  
-3d Skin Layers Replaces the usually flat second layer of player skins with a 3d modeled version. Will automatically switch to the vanilla 2d rendering when players are further away than 12 blocks in order to increase the framerate. Also supports transparent parts on things like glasses! Just keep in mind that the outer skin layer is slightly bigger than the main player model, so the cubes will not line up perfectly with the skin.</description>
+      <description>Rendering the players skin layers in 3D!</description>
     </item>
     
     <item>
-      <title>3d Skin Layers</title>
+      <title>EntityCulling</title>
       <link>https://tr7zw.github.io/project/entityculling/</link>
       <pubDate>Fri, 14 May 2021 13:23:14 +0200</pubDate>
       
       <guid>https://tr7zw.github.io/project/entityculling/</guid>
-      <description>NBT-API test</description>
+      <description>Using async path-tracing to hide Tiles/Entities that are not visible!</description>
     </item>
     
     <item>
