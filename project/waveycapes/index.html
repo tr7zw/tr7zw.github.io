@@ -1,0 +1,281 @@
+<!DOCTYPE html>
+<html lang="en-us">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width">
+    <script type="application/javascript" src='https://tr7zw.github.io/js/theme-mode.js'></script>
+    <link rel="stylesheet" href='https://tr7zw.github.io/css/frameworks.min.css' />
+    <link rel="stylesheet" href='https://tr7zw.github.io/css/github.min.css' />
+    <link rel="stylesheet" href='https://tr7zw.github.io/css/github-style.css' />
+    <link rel="stylesheet" href='https://tr7zw.github.io/css/light.css' />
+    <link rel="stylesheet" href='https://tr7zw.github.io/css/dark.css' />
+    <link rel="stylesheet" href='https://tr7zw.github.io/css/syntax.css' />
+    <title>WaveyCapes - tr7zw&#39;s project space</title>
+    
+    <link rel="icon" type="image/x-icon" href='/images/github.png'>
+    
+    <meta name="theme-color" content="#1e2327">
+
+    
+    <meta name="description"
+  content="NBT-API test" />
+<meta name="keywords"
+  content='blog, tr7zw, nbtapi, nbt-api, firstperson, 3d Skin Layers, 3dskinlayers, entityculling' />
+<meta name="robots" content="noodp" />
+<link rel="canonical" href="https://tr7zw.github.io/project/waveycapes/" />
+
+
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:title" content="WaveyCapes - tr7zw&#39;s project space" />
+<meta name="twitter:description"
+  content="NBT-API test" />
+<meta name="twitter:site" content="https://tr7zw.github.io/" />
+<meta name="twitter:creator" content="" />
+<meta name="twitter:image"
+  content="https://tr7zw.github.io/">
+
+
+<meta property="og:type" content="article" />
+<meta property="og:title" content="WaveyCapes - tr7zw&#39;s project space">
+<meta property="og:description"
+  content="NBT-API test" />
+<meta property="og:url" content="https://tr7zw.github.io/project/waveycapes/" />
+<meta property="og:site_name" content="WaveyCapes" />
+<meta property="og:image"
+  content="https://tr7zw.github.io/">
+<meta property="og:image:width" content="2048">
+<meta property="og:image:height" content="1024">
+
+<meta property="article:published_time" content="2021-05-14 13:23:14 &#43;0200 &#43;0200" />
+
+
+
+
+
+
+
+
+
+
+</head>
+
+<body>
+  <div style="position: relative">
+  <header class="Header js-details-container Details px-3 px-md-4 px-lg-5 flex-wrap flex-md-nowrap open Details--on">
+    <div class="Header-item mobile-none" style="margin-top: -4px; margin-bottom: -4px;">
+      <a class="Header-link" href="https://tr7zw.github.io/">
+        <svg class="octicon" height="32" viewBox="0 0 16 16" version="1.1" width="32">
+          <path fill-rule="evenodd"
+            d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27.68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.013 8.013 0 0016 8c0-4.42-3.58-8-8-8z">
+          </path>
+        </svg>
+      </a>
+    </div>
+
+    <div style="display: none;" id="header-title"
+      class="Header-item Header-item--full flex-column flex-md-row width-full flex-order-2 flex-md-order-none mr-0 mr-md-3 mt-3 mt-md-0 Details-content--hidden-not-important d-md-flex">
+      <div class="Header-item mobile-none" style="margin-top: -4px; margin-bottom: -4px;">
+        <a class="Header-link" href="https://tr7zw.github.io/">
+          tr7zw&#39;s project space
+        </a>
+      </div>
+    </div>
+
+    <div class="Header-item Header-item--full flex-justify-center d-md-none position-relative">
+      <a class="Header-link " href="https://tr7zw.github.io/">
+        <svg class="octicon octicon-mark-github v-align-middle" height="32" viewBox="0 0 16 16" version="1.1"
+          width="32">
+          <path fill-rule="evenodd"
+            d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27.68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.013 8.013 0 0016 8c0-4.42-3.58-8-8-8z">
+          </path>
+        </svg>
+      </a>
+    </div>
+    
+  </header>
+</div>
+  
+<div>
+  <main>
+    <div class="gisthead pagehead bg-gray-light pb-0 pt-3 mb-4">
+      <div class="px-0">
+        <div class="mb-3 d-flex px-3 px-md-3 px-lg-5">
+          <div class="flex-auto min-width-0 width-fit mr-3">
+            <div class="d-flex">
+              <div class="d-none d-md-block">
+                <a class="avatar mr-2 flex-shrink-0" href="https://tr7zw.github.io/">
+                  <img class=" avatar-user"
+                    src="/images/profile.png"
+                    width="32" height="32"></a>
+              </div>
+              <div class="d-flex flex-column">
+                <h1 class="break-word f3 text-normal mb-md-0 mb-1">
+                  <span class="author">
+                    <a href="https://tr7zw.github.io/">tr7zw&#39;s project space</a></span><span
+                    class="path-divider">/ <a href="https://tr7zw.github.io//project">project</a> /</span><strong class="css-truncate-target mr-1" style="max-width: 410px"><a
+                      href="https://tr7zw.github.io/project/waveycapes/">WaveyCapes</a></strong>
+                </h1>
+              </div>
+            </div>
+          </div>
+        </div>
+        <nav data-pjax="#js-repo-pjax-container" aria-label="Repository" data-view-component="true"
+          class="js-repo-nav js-sidenav-container-pjax js-responsive-underlinenav overflow-hidden UnderlineNav px-3 px-md-4 px-lg-5">
+        
+          <ul data-view-component="true" class="UnderlineNav-body list-style-none">
+        
+            <li data-view-component="true" class="d-inline-flex">
+              <a data-view-component="true"
+                class="UnderlineNav-item no-wrap js-responsive-underlinenav-item js-selected-navigation-item selected">
+        
+                <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true"
+                  class="octicon octicon-book UnderlineNav-octicon d-none d-sm-inline">
+                  <path fill-rule="evenodd"
+                    d="M0 1.75A.75.75 0 01.75 1h4.253c1.227 0 2.317.59 3 1.501A3.744 3.744 0 0111.006 1h4.245a.75.75 0 01.75.75v10.5a.75.75 0 01-.75.75h-4.507a2.25 2.25 0 00-1.591.659l-.622.621a.75.75 0 01-1.06 0l-.622-.621A2.25 2.25 0 005.258 13H.75a.75.75 0 01-.75-.75V1.75zm8.755 3a2.25 2.25 0 012.25-2.25H14.5v9h-3.757c-.71 0-1.4.201-1.992.572l.004-7.322zm-1.504 7.324l.004-5.073-.002-2.253A2.25 2.25 0 005.003 2.5H1.5v9h3.757a3.75 3.75 0 011.994.574z">
+                  </path>
+                </svg>
+                <span>Overview</span>
+              </a>
+            </li>
+        
+            
+
+            
+
+            
+        
+          </ul>
+          </details>
+          </div>
+        </nav>
+      </div>
+    </div>
+
+    <div class="d-flex flex-wrap flex-justify-center ">
+
+      <div class="repository-content gist-content col-xl-7">
+        <div>
+          <div class="js-gist-file-update-container js-task-list-container file-box">
+            <div id="file-pytest" class="file my-2">
+              <div id="post-header" class="file-header d-flex flex-md-items-center flex-items-start sticky-header" style="z-index: 2">
+                <div class="file-info d-flex flex-md-items-center flex-items-start flex-order-1 flex-auto">
+                  <div class="text-mono f6 flex-auto pr-3 flex-order-2 flex-md-order-1 mt-2 mt-md-0">
+                    
+                    <summary id="toc-toggle" onclick="clickToc()" class="btn btn-octicon m-0 mr-2 p-2">
+                      <svg aria-hidden="true" viewBox="0 0 16 16" height="16" width="16" class="octicon octicon-list-unordered">
+                        <path fill-rule="evenodd" d="M2 4a1 1 0 100-2 1 1 0 000 2zm3.75-1.5a.75.75 0 000 1.5h8.5a.75.75 0 000-1.5h-8.5zm0 5a.75.75 0 000 1.5h8.5a.75.75 0 000-1.5h-8.5zm0 5a.75.75 0 000 1.5h8.5a.75.75 0 000-1.5h-8.5zM3 8a1 1 0 11-2 0 1 1 0 012 0zm-1 6a1 1 0 100-2 1 1 0 000 2z"></path>
+                      </svg>
+                    </summary>
+                    <details-menu class="SelectMenu" id="toc-details" style="display: none;">
+                      <div class="SelectMenu-modal rounded-3 mt-1" style="max-height: 340px;">
+                        <div class="SelectMenu-list SelectMenu-list--borderless p-2" style="overscroll-behavior: contain;" id="toc-list">
+                        </div>
+                      </div>
+                    </details-menu>
+
+
+                  </div>
+                </div>
+              </div>
+
+
+              <div class="Box-body px-5 pb-5" style="z-index: 1">
+                <article class="markdown-body entry-content container-lg"><h1 id="nbt-api">NBT-API</h1>
+<p><img src="https://tr7zw.dev/curse/3dskin-banner.jpg" alt=""></p>
+<p>test</p>
+</article>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+
+    <div data-view-component="true" class="col-xl-2 pl-3 pt-3">
+    
+      <div class="BorderGrid BorderGrid--spacious" data-pjax="">
+        <div class="BorderGrid-row hide-sm hide-md">
+          <div class="BorderGrid-cell">
+            <h2 class="mb-3 h4">About</h2>
+    
+            <div class="my-3">
+              <div class="f6">
+                
+                
+                
+                <a href="/tags/fabric" class="topic-tag topic-tag-link">
+                  fabric
+                </a>
+
+                
+                <a href="/tags/forge" class="topic-tag topic-tag-link">
+                  forge
+                </a>
+
+                
+                
+              </div>
+    
+            </div>
+    
+            
+    
+            
+    
+          </div>
+        </div>
+
+        
+
+        <div class="display"></div>
+      </div>
+    </div>
+
+    </div>
+  </main>
+</div>
+<script type="application/javascript" src='https://tr7zw.github.io/js/toc.js'></script>
+<link rel="stylesheet" href='https://tr7zw.github.io/css/toc.css' />
+
+
+
+
+  <div class="footer container-xl width-full p-responsive">
+  <div
+    class="position-relative d-flex flex-row-reverse flex-lg-row flex-wrap flex-lg-nowrap flex-justify-center flex-lg-justify-between flex-sm-items-center pt-6 pb-2 mt-6 f6 text-gray border-top border-gray-light ">
+    <a aria-label="Homepage" title="GitHub" class="footer-octicon d-none d-lg-block mr-lg-4" href="https://tr7zw.github.io/">
+      <svg height="24" class="octicon octicon-mark-github" viewBox="0 0 16 16" version="1.1" width="24">
+        <path fill-rule="evenodd"
+          d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27.68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.013 8.013 0 0016 8c0-4.42-3.58-8-8-8z">
+        </path>
+      </svg>
+    </a>
+    <ul class="list-style-none d-flex flex-wrap col-12 flex-justify-center flex-lg-justify-between mb-2 mb-lg-0">
+      
+      <li class="mr-3 mr-lg-0">Theme by <a href='https://github.com/tr7zw/github-style-projects'>github-style-projects</a>, fork of <a href='https://github.com/MeiK2333/github-style'>github-style</a> under MIT</li>
+      
+    </ul>
+  </div>
+  
+  <script src='https://storage.ko-fi.com/cdn/scripts/overlay-widget.js'></script>
+  <script>
+    kofiWidgetOverlay.draw('tr7zw', {
+      'type': 'floating-chat',
+      'floating-chat.donateButton.text': 'Support me',
+      'floating-chat.donateButton.background-color': '#323842',
+      'floating-chat.donateButton.text-color': '#fff'
+    });
+  </script>
+  
+  <div class="d-flex flex-justify-center pb-6">
+    <span class="f6 text-gray-light"></span>
+  </div>
+
+
+</div>
+</body>
+
+<script type="application/javascript" src="https://tr7zw.github.io/js/github-style.js"></script>
+
+
+
+</html>

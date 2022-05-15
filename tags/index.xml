@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on tr7zw&#39;s project space</title>
+    <link>https://tr7zw.github.io/tags/</link>
+    <description>Recent content in Tags on tr7zw&#39;s project space</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 14 May 2021 13:23:14 +0200</lastBuildDate>
+    
+	<atom:link href="https://tr7zw.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>fabric</title>
+      <link>https://tr7zw.github.io/tags/fabric/</link>
+      <pubDate>Fri, 14 May 2021 13:23:14 +0200</pubDate>
+      
+      <guid>https://tr7zw.github.io/tags/fabric/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>forge</title>
+      <link>https://tr7zw.github.io/tags/forge/</link>
+      <pubDate>Fri, 14 May 2021 13:23:14 +0200</pubDate>
+      
+      <guid>https://tr7zw.github.io/tags/forge/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>spigot</title>
+      <link>https://tr7zw.github.io/tags/spigot/</link>
+      <pubDate>Fri, 14 May 2021 13:23:14 +0200</pubDate>
+      
+      <guid>https://tr7zw.github.io/tags/spigot/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

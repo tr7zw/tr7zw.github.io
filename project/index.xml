@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on tr7zw&#39;s project space</title>
+    <link>https://tr7zw.github.io/project/</link>
+    <description>Recent content in Projects on tr7zw&#39;s project space</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 14 May 2021 13:23:14 +0200</lastBuildDate>
+    
+	<atom:link href="https://tr7zw.github.io/project/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>3d Skin Layers</title>
+      <link>https://tr7zw.github.io/project/3dskinlayers/</link>
+      <pubDate>Fri, 14 May 2021 13:23:14 +0200</pubDate>
+      
+      <guid>https://tr7zw.github.io/project/3dskinlayers/</guid>
+      <description>3d Skin Layers  
+3d Skin Layers Replaces the usually flat second layer of player skins with a 3d modeled version. Will automatically switch to the vanilla 2d rendering when players are further away than 12 blocks in order to increase the framerate. Also supports transparent parts on things like glasses! Just keep in mind that the outer skin layer is slightly bigger than the main player model, so the cubes will not line up perfectly with the skin.</description>
+    </item>
+    
+    <item>
+      <title>3d Skin Layers</title>
+      <link>https://tr7zw.github.io/project/entityculling/</link>
+      <pubDate>Fri, 14 May 2021 13:23:14 +0200</pubDate>
+      
+      <guid>https://tr7zw.github.io/project/entityculling/</guid>
+      <description>NBT-API test</description>
+    </item>
+    
+    <item>
+      <title>NBTAPI</title>
+      <link>https://tr7zw.github.io/project/nbtapi/</link>
+      <pubDate>Fri, 14 May 2021 13:23:14 +0200</pubDate>
+      
+      <guid>https://tr7zw.github.io/project/nbtapi/</guid>
+      <description>NBT-API test</description>
+    </item>
+    
+    <item>
+      <title>WaveyCapes</title>
+      <link>https://tr7zw.github.io/project/waveycapes/</link>
+      <pubDate>Fri, 14 May 2021 13:23:14 +0200</pubDate>
+      
+      <guid>https://tr7zw.github.io/project/waveycapes/</guid>
+      <description>NBT-API test</description>
+    </item>
+    
+  </channel>
+</rss>

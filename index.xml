@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>tr7zw&#39;s project space</title>
+    <link>https://tr7zw.github.io/</link>
+    <description>Recent content on tr7zw&#39;s project space</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 14 May 2022 13:23:14 +0200</lastBuildDate>
+    
+	<atom:link href="https://tr7zw.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Other post</title>
+      <link>https://tr7zw.github.io/post/title_of_the_post2/</link>
+      <pubDate>Sat, 14 May 2022 13:23:14 +0200</pubDate>
+      
+      <guid>https://tr7zw.github.io/post/title_of_the_post2/</guid>
+      <description>CONTENT</description>
+    </item>
+    
+    <item>
+      <title>3d Skin Layers</title>
+      <link>https://tr7zw.github.io/project/3dskinlayers/</link>
+      <pubDate>Fri, 14 May 2021 13:23:14 +0200</pubDate>
+      
+      <guid>https://tr7zw.github.io/project/3dskinlayers/</guid>
+      <description>3d Skin Layers  
+3d Skin Layers Replaces the usually flat second layer of player skins with a 3d modeled version. Will automatically switch to the vanilla 2d rendering when players are further away than 12 blocks in order to increase the framerate. Also supports transparent parts on things like glasses! Just keep in mind that the outer skin layer is slightly bigger than the main player model, so the cubes will not line up perfectly with the skin.</description>
+    </item>
+    
+    <item>
+      <title>3d Skin Layers</title>
+      <link>https://tr7zw.github.io/project/entityculling/</link>
+      <pubDate>Fri, 14 May 2021 13:23:14 +0200</pubDate>
+      
+      <guid>https://tr7zw.github.io/project/entityculling/</guid>
+      <description>NBT-API test</description>
+    </item>
+    
+    <item>
+      <title>NBTAPI</title>
+      <link>https://tr7zw.github.io/project/nbtapi/</link>
+      <pubDate>Fri, 14 May 2021 13:23:14 +0200</pubDate>
+      
+      <guid>https://tr7zw.github.io/project/nbtapi/</guid>
+      <description>NBT-API test</description>
+    </item>
+    
+    <item>
+      <title>Title_of_the_post</title>
+      <link>https://tr7zw.github.io/post/title_of_the_post/</link>
+      <pubDate>Fri, 14 May 2021 13:23:14 +0200</pubDate>
+      
+      <guid>https://tr7zw.github.io/post/title_of_the_post/</guid>
+      <description>CONTENT</description>
+    </item>
+    
+    <item>
+      <title>WaveyCapes</title>
+      <link>https://tr7zw.github.io/project/waveycapes/</link>
+      <pubDate>Fri, 14 May 2021 13:23:14 +0200</pubDate>
+      
+      <guid>https://tr7zw.github.io/project/waveycapes/</guid>
+      <description>NBT-API test</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://tr7zw.github.io/readme/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://tr7zw.github.io/readme/</guid>
+      <description>Hi there 👋 I&amp;rsquo;m an open source developer creating and contributing to many different projects, while trying to expand my knowledge involving Java based projects.</description>
+    </item>
+    
+  </channel>
+</rss>
