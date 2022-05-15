@@ -1,0 +1,3 @@
+[submodule "themes/github-style"]
+	path = themes/github-style
+	url = https://github.com/tr7zw/github-style-projects.git
