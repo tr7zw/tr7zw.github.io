@@ -23,10 +23,4 @@ jobs:
         uses: peaceiris/actions-gh-pages@v3
         with:
           personal_token: ${{ secrets.GITHUB_TOKEN }}
-          external_repository: tr7zw/tr7zw.github.io
           publish_dir: ./public
-          #   keep_files: true
-          user_name: tr7zw
-          user_email: 5133936+tr7zw@users.noreply.github.com
-          publish_branch: gh-pages
-        #   cname: example.com
