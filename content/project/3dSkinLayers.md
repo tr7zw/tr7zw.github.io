@@ -3,13 +3,13 @@ title: "3d Skin Layers"
 date: 2021-05-14T13:23:14+02:00
 draft: false
 tags: ["fabric", "forge"]
-icon: "https://tr7zw.dev/curse/3dskin-banner.jpg"
+icon: "/images/3dskin-banner.jpg"
 githubuser: "tr7zw"
 githubrepo: "3d-Skin-Layers"
 license: "tr7zw Protective License"
 licenselink: "https://github.com/tr7zw/3d-Skin-Layers/blob/1.17/LICENSE"
 curseforgeid: 521480
-curseforge: "skin-layers-3d"
+curseforge: "mc-mods/skin-layers-3d"
 modrinth: "3dskinlayers"
 summary: "Rendering the players skin layers in 3D!"
 pin: true

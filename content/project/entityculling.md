@@ -8,9 +8,10 @@ githubrepo: "EntityCulling"
 license: "tr7zw Protective License"
 licenselink: "https://github.com/tr7zw/EntityCulling/blob/1.18/LICENSE-EntityCulling"
 curseforgeid: 448233
-curseforge: "entityculling"
+curseforge: "mc-mods/entityculling"
 summary: "Using async path-tracing to hide Tiles/Entities that are not visible!"
 pin: true
+icon: "/images/entityculling-logo.png"
 ---
 # EntityCulling
 
