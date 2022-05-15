@@ -12,6 +12,7 @@ curseforgeid: 521480
 curseforge: "skin-layers-3d"
 modrinth: "3dskinlayers"
 summary: "Rendering the players skin layers in 3D!"
+pin: true
 ---
 
 ![](https://tr7zw.dev/curse/3dskin-banner.jpg)
