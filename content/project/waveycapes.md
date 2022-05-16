@@ -12,6 +12,7 @@ curseforgeid: 521594
 curseforge: "mc-mods/waveycapes"
 summary: "The cape shouldn't be a static slab"
 pin: true
+sonarcloud: "tr7zw_WaveyCapes"
 ---
 # NBT-API
 

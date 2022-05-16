@@ -15,6 +15,7 @@ spigotid: 7939
 bstats: 1058
 bstatsname: "ItemNBTAPI"
 pin: true
+sonarcloud: "de.tr7zw:item-nbt-parent"
 ---
 # Item-NBT-API
 Add custom NBT tags to Items/Tiles/Entities without NMS! Modify NBT and store it Files, other NBT or as String in yaml/json/SQL/Redis.

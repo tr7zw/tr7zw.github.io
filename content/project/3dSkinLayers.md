@@ -11,6 +11,7 @@ licenselink: "https://github.com/tr7zw/3d-Skin-Layers/blob/1.17/LICENSE"
 curseforgeid: 521480
 curseforge: "mc-mods/skin-layers-3d"
 modrinth: "3dskinlayers"
+sonarcloud: "tr7zw_3d-Skin-Layers"
 summary: "Rendering the players skin layers in 3D!"
 pin: true
 ---
