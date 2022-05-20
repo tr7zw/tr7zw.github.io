@@ -7,6 +7,8 @@ mcversion: "1.16.5"
 modversion: "1.1.0"
 tags: ["3dskinlayers", "1.16.5"]
 externalurl: "https://www.curseforge.com/minecraft/mc-mods/skin-layers-3d/files/3456514"
+externalpost: "https://www.curseforge.com/minecraft/mc-mods/skin-layers-3d/files/3456514"
+summary: "Click to get this release"
 ---
 # [3d Skin Layers](/project/3dskinlayers) - 1.1.0 (Forge) released
 Download [this](https://www.curseforge.com/minecraft/mc-mods/skin-layers-3d/files/3456514) version or check out the [CurseForge](https://www.curseforge.com/minecraft/mc-mods/skin-layers-3d) page!
