@@ -56,5 +56,14 @@
       <description>The cape shouldn&amp;rsquo;t be a static slab</description>
     </item>
     
+    <item>
+      <title>MiniMePets</title>
+      <link>https://tr7zw.github.io/project/minimepets/</link>
+      <pubDate>Wed, 14 Apr 2021 13:23:14 +0200</pubDate>
+      
+      <guid>https://tr7zw.github.io/project/minimepets/</guid>
+      <description>Turn wolfs and cats into small players using a nametag</description>
+    </item>
+    
   </channel>
 </rss>

@@ -1,0 +1,441 @@
+<!DOCTYPE html>
+<html lang="en-us">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width">
+    <script type="application/javascript" src='https://tr7zw.github.io/js/theme-mode.js'></script>
+    <link rel="stylesheet" href='https://tr7zw.github.io/css/frameworks.min.css' />
+    <link rel="stylesheet" href='https://tr7zw.github.io/css/github.min.css' />
+    <link rel="stylesheet" href='https://tr7zw.github.io/css/github-style.css' />
+    <link rel="stylesheet" href='https://tr7zw.github.io/css/light.css' />
+    <link rel="stylesheet" href='https://tr7zw.github.io/css/dark.css' />
+    <link rel="stylesheet" href='https://tr7zw.github.io/css/syntax.css' />
+    <title>MiniMePets - tr7zw&#39;s project space</title>
+    
+    <link rel="icon" type="image/x-icon" href='/images/favicon.ico'>
+    
+    <meta name="theme-color" content="#1e2327">
+
+    
+    <meta name="description"
+  content="Turn wolfs and cats into small players using a nametag" />
+<meta name="keywords"
+  content='blog, tr7zw, nbtapi, nbt-api, firstperson, 3d Skin Layers, 3dskinlayers, entityculling' />
+<meta name="robots" content="noodp" />
+<link rel="canonical" href="https://tr7zw.github.io/project/minimepets/" />
+
+
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:title" content="MiniMePets - tr7zw&#39;s project space" />
+<meta name="twitter:description"
+  content="Turn wolfs and cats into small players using a nametag" />
+<meta name="twitter:site" content="https://tr7zw.github.io/" />
+<meta name="twitter:creator" content="" />
+<meta name="twitter:image"
+  content="https://tr7zw.github.io/">
+
+
+<meta property="og:type" content="article" />
+<meta property="og:title" content="MiniMePets - tr7zw&#39;s project space">
+<meta property="og:description"
+  content="Turn wolfs and cats into small players using a nametag" />
+<meta property="og:url" content="https://tr7zw.github.io/project/minimepets/" />
+<meta property="og:site_name" content="MiniMePets" />
+<meta property="og:image"
+  content="https://tr7zw.github.io/">
+<meta property="og:image:width" content="2048">
+<meta property="og:image:height" content="1024">
+
+<meta property="article:published_time" content="2021-04-14 13:23:14 &#43;0200 &#43;0200" />
+
+
+
+
+
+
+
+
+
+
+</head>
+
+<body>
+  <div style="position: relative">
+  <header class="Header js-details-container Details px-3 px-md-4 px-lg-5 flex-wrap flex-md-nowrap open Details--on">
+    <div class="Header-item mobile-none" style="margin-top: -4px; margin-bottom: -4px;">
+      <a class="Header-link" href="https://tr7zw.github.io/">
+        <svg class="octicon" height="32" viewBox="0 0 16 16" version="1.1" width="32">
+          <path fill-rule="evenodd"
+            d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27.68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.013 8.013 0 0016 8c0-4.42-3.58-8-8-8z">
+          </path>
+        </svg>
+      </a>
+    </div>
+
+    <div style="display: none;" id="header-title"
+      class="Header-item Header-item--full flex-column flex-md-row width-full flex-order-2 flex-md-order-none mr-0 mr-md-3 mt-3 mt-md-0 Details-content--hidden-not-important d-md-flex">
+      <div class="Header-item mobile-none" style="margin-top: -4px; margin-bottom: -4px;">
+        <a class="Header-link" href="https://tr7zw.github.io/">
+          tr7zw&#39;s project space
+        </a>
+      </div>
+    </div>
+
+    <div class="Header-item Header-item--full flex-justify-center d-md-none position-relative">
+      <a class="Header-link " href="https://tr7zw.github.io/">
+        <svg class="octicon octicon-mark-github v-align-middle" height="32" viewBox="0 0 16 16" version="1.1"
+          width="32">
+          <path fill-rule="evenodd"
+            d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27.68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.013 8.013 0 0016 8c0-4.42-3.58-8-8-8z">
+          </path>
+        </svg>
+      </a>
+    </div>
+    
+  </header>
+</div>
+  
+<div>
+  <main>
+    <div class="gisthead pagehead bg-gray-light pb-0 pt-3 mb-4">
+      <div class="px-0">
+        <div class="mb-3 d-flex px-3 px-md-3 px-lg-5">
+          <div class="flex-auto min-width-0 width-fit mr-3">
+            <div class="d-flex">
+              <div class="d-none d-md-block">
+                <a class="avatar mr-2 flex-shrink-0" href="https://tr7zw.github.io/">
+                  <img class=" avatar-user"
+                    src="/images/profile.png"
+                    width="32" height="32"></a>
+              </div>
+              <div class="d-flex flex-column">
+                <h1 class="break-word f3 text-normal mb-md-0 mb-1">
+                  <span class="author">
+                    <a href="https://tr7zw.github.io/">tr7zw&#39;s project space</a></span><span
+                    class="path-divider">/ <a href="https://tr7zw.github.io//project">project</a> /</span><strong class="css-truncate-target mr-1" style="max-width: 410px"><a
+                      href="https://tr7zw.github.io/project/minimepets/">MiniMePets</a></strong>
+                </h1>
+              </div>
+            </div>
+          </div>
+        </div>
+        <nav data-pjax="#js-repo-pjax-container" aria-label="Repository" data-view-component="true"
+          class="js-repo-nav js-sidenav-container-pjax js-responsive-underlinenav overflow-hidden UnderlineNav px-3 px-md-4 px-lg-5">
+        
+          <ul data-view-component="true" class="UnderlineNav-body list-style-none">
+        
+            <li data-view-component="true" class="d-inline-flex">
+              <a data-view-component="true"
+                class="UnderlineNav-item no-wrap js-responsive-underlinenav-item js-selected-navigation-item selected">
+        
+                <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true"
+                  class="octicon octicon-book UnderlineNav-octicon d-none d-sm-inline">
+                  <path fill-rule="evenodd"
+                    d="M0 1.75A.75.75 0 01.75 1h4.253c1.227 0 2.317.59 3 1.501A3.744 3.744 0 0111.006 1h4.245a.75.75 0 01.75.75v10.5a.75.75 0 01-.75.75h-4.507a2.25 2.25 0 00-1.591.659l-.622.621a.75.75 0 01-1.06 0l-.622-.621A2.25 2.25 0 005.258 13H.75a.75.75 0 01-.75-.75V1.75zm8.755 3a2.25 2.25 0 012.25-2.25H14.5v9h-3.757c-.71 0-1.4.201-1.992.572l.004-7.322zm-1.504 7.324l.004-5.073-.002-2.253A2.25 2.25 0 005.003 2.5H1.5v9h3.757a3.75 3.75 0 011.994.574z">
+                  </path>
+                </svg>
+                <span>Overview</span>
+              </a>
+            </li>
+        
+            
+            <li data-view-component="true" class="d-inline-flex">
+              <a href="https://github.com/tr7zw/MiniMePets"
+                class="UnderlineNav-item no-wrap js-responsive-underlinenav-item js-selected-navigation-item">
+        
+                <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true"
+                  class="octicon octicon-code UnderlineNav-octicon d-none d-sm-inline">
+                  <path fill-rule="evenodd"
+                    d="M4.72 3.22a.75.75 0 011.06 1.06L2.06 8l3.72 3.72a.75.75 0 11-1.06 1.06L.47 8.53a.75.75 0 010-1.06l4.25-4.25zm6.56 0a.75.75 0 10-1.06 1.06L13.94 8l-3.72 3.72a.75.75 0 101.06 1.06l4.25-4.25a.75.75 0 000-1.06l-4.25-4.25z">
+                  </path>
+                </svg>
+                <span>Github</span>
+              </a>
+            </li>
+            
+
+            
+            <li data-view-component="true" class="d-inline-flex">
+              <a href="https://www.curseforge.com/minecraft/mc-mods/minimepets"
+                class="UnderlineNav-item no-wrap js-responsive-underlinenav-item js-selected-navigation-item">
+        
+                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 53.5" width="16" height="16" class="octicon octicon-code UnderlineNav-octicon d-none d-sm-inline">
+                  <path fill="#484848" fill-rule="evenodd"
+                    d="M0 6.9082l27.9532.0756L26.269 0h73.7449l-.0164 8.1433C87.5 10.6348 78.6726 16.775 74.825 36.34H72.046l-1.5815 4.359h2.3079l3.9906 12.8087H37.961l3.9184-12.8086h2.325l-1.6467-4.359h-2.7642l-5.1516-13.7535C13.5203 21.3437 2.6748 16.9042 0 6.9082zM58.6772 39.062c-3.082-5.6216-5.1058-1.197-11.4454-6.9496-2.4727-2.2436-3.4588-8.8199 2.097-10.8301-2.5255 5.5749 4.0297 7.8558 5.5898 4.6685.709-1.4486 1.6039-4.1204-.9798-5.9518-1.392-.9867-1.9281-3.9125-.7364-5.5388.3837 1.2093 1.5938 2.5013 3.916 1.5411-4.9192-8.1404 2.934-10.9457 6.7104-10.5817-3.9686.441-6.025 3.977-4.2196 7.8269 1.15 2.452 2.9006 3.6589 3.4097 5.6657-1.6952.1263-2.1852.9065-2.1495 2.362.0268 1.0895 2.5496 2.6646 2.9494-.4456 1.175 2.4245-.2407 3.8496-1.0129 4.9984-1.7824 2.6515-.1036 5.4107 2.1097 3.3067.9547-.9074 1.6155-2.5812.4048-5.318 2.229 1.776 4.5057 6.5447.9079 10.677-1.756 2.017-6.9514 1.391-7.551 4.5693z" />
+                </svg>
+                  <path fill-rule="evenodd"
+                    d="M4.72 3.22a.75.75 0 011.06 1.06L2.06 8l3.72 3.72a.75.75 0 11-1.06 1.06L.47 8.53a.75.75 0 010-1.06l4.25-4.25zm6.56 0a.75.75 0 10-1.06 1.06L13.94 8l-3.72 3.72a.75.75 0 101.06 1.06l4.25-4.25a.75.75 0 000-1.06l-4.25-4.25z">
+                  </path>
+                </svg>
+                <span>CurseForge</span>
+              </a>
+            </li>
+            
+
+            
+        
+          </ul>
+          </details>
+          </div>
+        </nav>
+      </div>
+    </div>
+
+    <div class="d-flex flex-wrap flex-justify-center ">
+
+      <div class="repository-content gist-content col-xl-7">
+        <div>
+          <div class="js-gist-file-update-container js-task-list-container file-box">
+            <div id="file-pytest" class="file my-2">
+              <div id="post-header" class="file-header d-flex flex-md-items-center flex-items-start sticky-header" style="z-index: 2">
+                <div class="file-info d-flex flex-md-items-center flex-items-start flex-order-1 flex-auto">
+                  <div class="text-mono f6 flex-auto pr-3 flex-order-2 flex-md-order-1 mt-2 mt-md-0">
+                    
+                    <summary id="toc-toggle" onclick="clickToc()" class="btn btn-octicon m-0 mr-2 p-2">
+                      <svg aria-hidden="true" viewBox="0 0 16 16" height="16" width="16" class="octicon octicon-list-unordered">
+                        <path fill-rule="evenodd" d="M2 4a1 1 0 100-2 1 1 0 000 2zm3.75-1.5a.75.75 0 000 1.5h8.5a.75.75 0 000-1.5h-8.5zm0 5a.75.75 0 000 1.5h8.5a.75.75 0 000-1.5h-8.5zm0 5a.75.75 0 000 1.5h8.5a.75.75 0 000-1.5h-8.5zM3 8a1 1 0 11-2 0 1 1 0 012 0zm-1 6a1 1 0 100-2 1 1 0 000 2z"></path>
+                      </svg>
+                    </summary>
+                    <details-menu class="SelectMenu" id="toc-details" style="display: none;">
+                      <div class="SelectMenu-modal rounded-3 mt-1" style="max-height: 340px;">
+                        <div class="SelectMenu-list SelectMenu-list--borderless p-2" style="overscroll-behavior: contain;" id="toc-list">
+                        </div>
+                      </div>
+                    </details-menu>
+
+
+                  </div>
+                </div>
+              </div>
+
+
+              <div class="Box-body px-5 pb-5" style="z-index: 1">
+                <article class="markdown-body entry-content container-lg"><p><img src="https://tr7zw.dev/curse/MiniMePet-banner.png" alt=""></p>
+<h1 id="minimepets">MiniMePets</h1>
+<p>Turn wolfs and cats into small players using a nametag. Have mini versions of yourself, friends, youtubers or whoever you want follow you around on adventures or populating your house. This change is just visual, so wolfs will still fight on your side, all of them take their usual food for breeding/healing and right-clicking will sit them down so they won&rsquo;t follow you around.</p>
+<p>This mod is purely visual and fully clientside, it doesn&rsquo;t have to be installed on servers and works everywhere!</p>
+<h2 id="dependencies">Dependencies</h2>
+<ul>
+<li>none</li>
+</ul>
+<h2 id="tested-with">Tested with</h2>
+<ul>
+<li>3d Skin Layers(won&rsquo;t get applied)</li>
+<li>Sodium</li>
+<li>Iris</li>
+<li>Optifine</li>
+</ul>
+</article>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+
+    <div data-view-component="true" class="col-xl-2 pl-3 pt-3">
+    
+      <div class="BorderGrid BorderGrid--spacious" data-pjax="">
+        <div class="BorderGrid-row hide-sm hide-md">
+          <div class="BorderGrid-cell">
+            <h2 class="mb-3 h4">About</h2>
+    
+            <div class="my-3">
+              <div class="f6">
+                
+                
+                
+                <a href="/tags/fabric" class="topic-tag topic-tag-link">
+                  fabric
+                </a>
+
+                
+                <a href="/tags/forge" class="topic-tag topic-tag-link">
+                  forge
+                </a>
+
+                
+                
+              </div>
+    
+            </div>
+    
+            
+            <div class="mt-2">
+              <a  href="https://github.com/tr7zw/MiniMePets/blob/master/LICENSE"  class="Link--muted">
+                <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true"
+                  class="octicon octicon-law mr-2">
+                  <path fill-rule="evenodd"
+                    d="M8.75.75a.75.75 0 00-1.5 0V2h-.984c-.305 0-.604.08-.869.23l-1.288.737A.25.25 0 013.984 3H1.75a.75.75 0 000 1.5h.428L.066 9.192a.75.75 0 00.154.838l.53-.53-.53.53v.001l.002.002.002.002.006.006.016.015.045.04a3.514 3.514 0 00.686.45A4.492 4.492 0 003 11c.88 0 1.556-.22 2.023-.454a3.515 3.515 0 00.686-.45l.045-.04.016-.015.006-.006.002-.002.001-.002L5.25 9.5l.53.53a.75.75 0 00.154-.838L3.822 4.5h.162c.305 0 .604-.08.869-.23l1.289-.737a.25.25 0 01.124-.033h.984V13h-2.5a.75.75 0 000 1.5h6.5a.75.75 0 000-1.5h-2.5V3.5h.984a.25.25 0 01.124.033l1.29.736c.264.152.563.231.868.231h.162l-2.112 4.692a.75.75 0 00.154.838l.53-.53-.53.53v.001l.002.002.002.002.006.006.016.015.045.04a3.517 3.517 0 00.686.45A4.492 4.492 0 0013 11c.88 0 1.556-.22 2.023-.454a3.512 3.512 0 00.686-.45l.045-.04.01-.01.006-.005.006-.006.002-.002.001-.002-.529-.531.53.53a.75.75 0 00.154-.838L13.823 4.5h.427a.75.75 0 000-1.5h-2.234a.25.25 0 01-.124-.033l-1.29-.736A1.75 1.75 0 009.735 2H8.75V.75zM1.695 9.227c.285.135.718.273 1.305.273s1.02-.138 1.305-.273L3 6.327l-1.305 2.9zm10 0c.285.135.718.273 1.305.273s1.02-.138 1.305-.273L13 6.327l-1.305 2.9z">
+                  </path>
+                </svg>
+                License: tr7zw Protective License
+              </a>
+            </div>
+            
+    
+            
+            <div class="mt-2">
+              <a href="https://github.com/tr7zw/MiniMePets/stargazers" data-view-component="true" class="Link--muted">
+                <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true"
+                  class="octicon octicon-star mr-2">
+                  <path fill-rule="evenodd"
+                    d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z">
+                  </path>
+                </svg>
+                <strong id="stargazers">...</strong>
+                stars
+              </a>
+            </div>
+    
+            <div class="mt-2">
+              <a href="https://github.com/tr7zw/MiniMePets/watchers" data-view-component="true" class="Link--muted">
+                <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true"
+                  class="octicon octicon-eye mr-2">
+                  <path fill-rule="evenodd"
+                    d="M1.679 7.932c.412-.621 1.242-1.75 2.366-2.717C5.175 4.242 6.527 3.5 8 3.5c1.473 0 2.824.742 3.955 1.715 1.124.967 1.954 2.096 2.366 2.717a.119.119 0 010 .136c-.412.621-1.242 1.75-2.366 2.717C10.825 11.758 9.473 12.5 8 12.5c-1.473 0-2.824-.742-3.955-1.715C2.92 9.818 2.09 8.69 1.679 8.068a.119.119 0 010-.136zM8 2c-1.981 0-3.67.992-4.933 2.078C1.797 5.169.88 6.423.43 7.1a1.619 1.619 0 000 1.798c.45.678 1.367 1.932 2.637 3.024C4.329 13.008 6.019 14 8 14c1.981 0 3.67-.992 4.933-2.078 1.27-1.091 2.187-2.345 2.637-3.023a1.619 1.619 0 000-1.798c-.45-.678-1.367-1.932-2.637-3.023C11.671 2.992 9.981 2 8 2zm0 8a2 2 0 100-4 2 2 0 000 4z">
+                  </path>
+                </svg>
+                <strong id="watchers">...</strong>
+                watching
+              </a>
+            </div>
+    
+            <div class="mt-2">
+              <a href="https://github.com/tr7zw/MiniMePets/network/members" data-view-component="true" class="Link--muted">
+                <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true"
+                  class="octicon octicon-repo-forked mr-2">
+                  <path fill-rule="evenodd"
+                    d="M5 3.25a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm0 2.122a2.25 2.25 0 10-1.5 0v.878A2.25 2.25 0 005.75 8.5h1.5v2.128a2.251 2.251 0 101.5 0V8.5h1.5a2.25 2.25 0 002.25-2.25v-.878a2.25 2.25 0 10-1.5 0v.878a.75.75 0 01-.75.75h-4.5A.75.75 0 015 6.25v-.878zm3.75 7.378a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm3-8.75a.75.75 0 100-1.5.75.75 0 000 1.5z">
+                  </path>
+                </svg>
+                <strong id="forks">...</strong>
+                forks
+              </a>
+            </div>
+
+            <div class="mt-2">
+              <a href="https://github.com/tr7zw/MiniMePets/issues" data-view-component="true" class="Link--muted">
+                <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-issue-opened UnderlineNav-octicon d-none d-sm-inline">
+                  <path d="M8 9.5a1.5 1.5 0 100-3 1.5 1.5 0 000 3z"></path><path fill-rule="evenodd" d="M8 0a8 8 0 100 16A8 8 0 008 0zM1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0z"></path>
+                </svg>
+                
+                &nbsp;<strong id="issues">...</strong>
+                open issues
+              </a>
+            </div>
+            
+    
+          </div>
+        </div>
+
+        
+
+        <div class="BorderGrid-row">
+          <div class="BorderGrid-cell">
+            <h2 class="h4 mb-3" data-pjax="#repo-content-pjax-container">
+              <a data-view-component="true" class="Link--primary no-underline">
+                Downloads
+              </a>
+            </h2>
+            
+            <div class="color-fg-muted d-flex">CurseForge <img class="pl-1 pb-1" src="https://cf.way2muchnoise.eu/short_593627.svg"/></div>
+            
+            
+          </div>
+        </div>
+        <div class="BorderGrid-row" hidden="">
+          <div class="BorderGrid-cell">
+          </div>
+        </div>
+
+        
+
+        
+
+        <div class="BorderGrid-row">
+          <div class="BorderGrid-cell">
+            <h2 class="h4 mb-3" data-pjax="#repo-content-pjax-container">
+              <a href="https://sonarcloud.io/project/overview?id=tr7zw_MiniMePets" data-view-component="true" class="Link--primary no-underline">
+                sonarcloud
+              </a>
+            </h2>
+            <div class="color-fg-muted d-flex"><a href="https://sonarcloud.io/summary/new_code?id=tr7zw_MiniMePets"><img src="https://sonarcloud.io/api/project_badges/measure?project=tr7zw_MiniMePets&metric=ncloc"/></a></div>
+            <div class="color-fg-muted d-flex"><a href="https://sonarcloud.io/summary/new_code?id=tr7zw_MiniMePets"><img src="https://sonarcloud.io/api/project_badges/measure?project=tr7zw_MiniMePets&metric=duplicated_lines_density"/></a></div>
+            <div class="color-fg-muted d-flex"><a href="https://sonarcloud.io/summary/new_code?id=tr7zw_MiniMePets"><img src="https://sonarcloud.io/api/project_badges/measure?project=tr7zw_MiniMePets&metric=bugs"/></a></div>
+            <div class="color-fg-muted d-flex"><a href="https://sonarcloud.io/summary/new_code?id=tr7zw_MiniMePets"><img src="https://sonarcloud.io/api/project_badges/measure?project=tr7zw_MiniMePets&metric=vulnerabilities"/></a></div>
+            <div class="color-fg-muted d-flex"><a href="https://sonarcloud.io/summary/new_code?id=tr7zw_MiniMePets"><img src="https://sonarcloud.io/api/project_badges/measure?project=tr7zw_MiniMePets&metric=code_smells"/></a></div>
+            <div class="color-fg-muted d-flex"><a href="https://sonarcloud.io/summary/new_code?id=tr7zw_MiniMePets"><img src="https://sonarcloud.io/api/project_badges/measure?project=tr7zw_MiniMePets&metric=sqale_rating"/></a></div>
+            <div class="color-fg-muted d-flex"><a href="https://sonarcloud.io/summary/new_code?id=tr7zw_MiniMePets"><img src="https://sonarcloud.io/api/project_badges/measure?project=tr7zw_MiniMePets&metric=reliability_rating"/></a></div>
+          </div>
+        </div>
+        <div class="BorderGrid-row" hidden="">
+          <div class="BorderGrid-cell">
+          </div>
+        </div>
+
+        
+
+        <div class="display"></div>
+      </div>
+    </div>
+
+    </div>
+  </main>
+</div>
+<script type="application/javascript" src='https://tr7zw.github.io/js/toc.js'></script>
+<link rel="stylesheet" href='https://tr7zw.github.io/css/toc.css' />
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+<script>
+    $.getJSON('https://api.github.com/repos/tr7zw/MiniMePets', function(data){
+    $("#stargazers").html(data.stargazers_count)
+    $("#watchers").html(data.subscribers_count)
+    $("#forks").html(data.forks_count)
+    $("#issues").html(data.open_issues)
+  });
+</script>
+
+
+
+
+  <div class="footer container-xl width-full p-responsive">
+  <div
+    class="position-relative d-flex flex-row-reverse flex-lg-row flex-wrap flex-lg-nowrap flex-justify-center flex-lg-justify-between flex-sm-items-center pt-6 pb-2 mt-6 f6 text-gray border-top border-gray-light ">
+    <a aria-label="Homepage" title="GitHub" class="footer-octicon d-none d-lg-block mr-lg-4" href="https://tr7zw.github.io/">
+      <svg height="24" class="octicon octicon-mark-github" viewBox="0 0 16 16" version="1.1" width="24">
+        <path fill-rule="evenodd"
+          d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27.68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.013 8.013 0 0016 8c0-4.42-3.58-8-8-8z">
+        </path>
+      </svg>
+    </a>
+    <ul class="list-style-none d-flex flex-wrap col-12 flex-justify-center flex-lg-justify-between mb-2 mb-lg-0">
+      
+      <li class="mr-3 mr-lg-0">Theme by <a href='https://github.com/tr7zw/github-style-projects'>github-style-projects</a>, fork of <a href='https://github.com/MeiK2333/github-style'>github-style</a> under MIT</li>
+      
+    </ul>
+  </div>
+  
+  <script src='https://storage.ko-fi.com/cdn/scripts/overlay-widget.js'></script>
+  <script>
+    kofiWidgetOverlay.draw('tr7zw', {
+      'type': 'floating-chat',
+      'floating-chat.donateButton.text': 'Support me',
+      'floating-chat.donateButton.background-color': '#323842',
+      'floating-chat.donateButton.text-color': '#fff'
+    });
+  </script>
+  
+  <div class="d-flex flex-justify-center pb-6">
+    <span class="f6 text-gray-light"></span>
+  </div>
+
+
+</div>
+</body>
+
+<script type="application/javascript" src="https://tr7zw.github.io/js/github-style.js"></script>
+<script async defer src="https://buttons.github.io/buttons.js"></script>
+
+
+
+</html>
