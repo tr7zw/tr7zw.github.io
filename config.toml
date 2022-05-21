@@ -2,6 +2,7 @@ baseURL = 'https://tr7zw.github.io/'
 languageCode = 'en-us'
 title = "tr7zw's project space"
 theme = 'github-style'
+googleAnalytics = "G-H0RZ7K9HFK"
 pygmentsCodeFences = true
 pygmentsUseClasses = true
 
