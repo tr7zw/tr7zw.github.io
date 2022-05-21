@@ -17,7 +17,7 @@ jobs:
           hugo-version: "0.64.0"
 
       - name: Build
-        run: hugo
+        run: hugo -e production
 
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3
