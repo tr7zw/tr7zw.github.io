@@ -8,6 +8,7 @@ function switchTheme() {
       iconElement.setAttribute('class', 'octicon');
       iconElement.setAttribute('color', '#f0f6fc');
     }
+    updateHiddenElements();
   }
   else {
     setTheme('light');
@@ -15,7 +16,20 @@ function switchTheme() {
       iconElement.removeAttribute('color');
       iconElement.removeAttribute('class');
     }
+    updateHiddenElements();
   }
+}
+
+function updateHiddenElements(){
+  const darkElements = document.getElementsByClassName("darkmode");
+  const lightElements = document.getElementsByClassName("lightmode");
+  const darkmode = currentTheme() === 'light';
+  for(var i = 0; i < darkElements.length; i++){
+    darkElements.item(i).hidden = darkmode;
+  } 
+  for(var i = 0; i < lightElements.length; i++){
+    lightElements.item(i).hidden = !darkmode;
+  } 
 }
 
 function setTheme(style) {
