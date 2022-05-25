@@ -10,6 +10,7 @@ license: "tr7zw Protective License"
 licenselink: "https://github.com/tr7zw/NotEnoughAnimations/blob/1.18/LICENSE"
 curseforgeid: 433760
 curseforge: "mc-mods/not-enough-animations"
+modrinth: "not-enough-animations"
 sonarcloud: "tr7zw_NotEnoughAnimations"
 summary: "Bringing first-person animations to the third-person"
 pin: true

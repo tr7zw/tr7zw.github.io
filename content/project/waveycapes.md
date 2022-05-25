@@ -10,6 +10,7 @@ license: "tr7zw Protective License"
 licenselink: "https://github.com/tr7zw/WaveyCapes/blob/1.18/LICENSE"
 curseforgeid: 521594
 curseforge: "mc-mods/waveycapes"
+modrinth: "wavey-capes"
 summary: "The cape shouldn't be a static slab"
 pin: true
 sonarcloud: "tr7zw_WaveyCapes"
