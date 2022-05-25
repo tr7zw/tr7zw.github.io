@@ -2,9 +2,7 @@
 
 I'm an open source developer creating and contributing to many different projects, while trying to expand my knowledge involving Java based projects.
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=tr7zw&count_private=true&show_icons=true&include_all_commits=true&theme=github_dark&hide_border=true) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tr7zw&layout=compact&theme=github_dark&hide_border=true)
-
-
+<img width="495px" height="195" src="https://github-readme-stats.vercel.app/api?username=tr7zw&count_private=true&show_icons=true&include_all_commits=true&theme=github_dark&hide_border=true"/><img width="350px" height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tr7zw&layout=compact&theme=github_dark&hide_border=true"/>
 
 <!--
 **tr7zw/tr7zw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

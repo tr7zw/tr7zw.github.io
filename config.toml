@@ -6,6 +6,9 @@ googleAnalytics = "G-H0RZ7K9HFK"
 pygmentsCodeFences = true
 pygmentsUseClasses = true
 
+[markup.goldmark.renderer]
+unsafe= true
+
 [params]
   author = "tr7zw's project space"
   description = "Insert witty comment here"
