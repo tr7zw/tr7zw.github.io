@@ -48,5 +48,4 @@ function currentTheme() {
 
 (() => {
   setTheme(currentTheme());
-  updateHiddenElements();
 })();
