@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>nbtapi on tr7zw&#39;s project space</title>
+    <link>https://tr7zw.github.io/tags/nbtapi/</link>
+    <description>Recent content in nbtapi on tr7zw&#39;s project space</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 11 Jun 2022 20:17:50 +0000</lastBuildDate>
+    
+	<atom:link href="https://tr7zw.github.io/tags/nbtapi/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>NBT-API 2.10.0 released</title>
+      <link>https://tr7zw.github.io/post/nbtapi-2.10.0/</link>
+      <pubDate>Sat, 11 Jun 2022 20:17:50 +0000</pubDate>
+      
+      <guid>https://tr7zw.github.io/post/nbtapi-2.10.0/</guid>
+      <description>Click to get this release</description>
+    </item>
+    
+  </channel>
+</rss>
