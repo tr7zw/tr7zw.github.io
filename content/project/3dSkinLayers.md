@@ -3,7 +3,7 @@ title: "3d Skin Layers"
 date: 2021-05-14T13:23:14+02:00
 draft: false
 tags: ["fabric", "forge"]
-icon: "/images/3dskin-banner.jpg"
+Cover: "/images/3dskin-banner.jpg"
 githubuser: "tr7zw"
 githubrepo: "3d-Skin-Layers"
 license: "tr7zw Protective License"

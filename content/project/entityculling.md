@@ -12,7 +12,7 @@ curseforge: "mc-mods/entityculling"
 modrinth: "entityculling"
 summary: "Using async path-tracing to hide Tiles/Entities that are not visible!"
 pin: true
-icon: "/images/entityculling-logo.png"
+Cover: "/images/entityculling-logo.png"
 sonarcloud: "tr7zw_EntityCulling"
 ---
 # EntityCulling

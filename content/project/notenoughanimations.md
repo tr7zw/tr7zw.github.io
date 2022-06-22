@@ -3,7 +3,7 @@ title: "Not Enough Animations"
 date: 2021-05-14T13:23:14+02:00
 draft: false
 tags: ["fabric", "forge"]
-icon: "/images/notenoughanimations-logo.png"
+Cover: "/images/notenoughanimations-logo.png"
 githubuser: "tr7zw"
 githubrepo: "NotEnoughAnimations"
 license: "tr7zw Protective License"

@@ -3,7 +3,7 @@ title: "WaveyCapes"
 date: 2021-05-14T13:23:14+02:00
 draft: false
 tags: ["fabric", "forge"]
-icon: "/images/waveycapes-banner.jpg"
+Cover: "/images/waveycapes-banner.jpg"
 githubuser: "tr7zw"
 githubrepo: "WaveyCapes"
 license: "tr7zw Protective License"

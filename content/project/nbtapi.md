@@ -3,7 +3,7 @@ title: "NBTAPI"
 date: 2021-05-14T13:23:14+02:00
 draft: false
 tags: ["spigot"]
-icon: "/images/nbtapi-logo.png"
+Cover: "/images/nbtapi-logo.png"
 githubuser: "tr7zw"
 githubrepo: "Item-NBT-API"
 license: "MIT"
