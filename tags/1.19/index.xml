@@ -6,10 +6,37 @@
     <description>Recent content in 1.19 on tr7zw&#39;s project space</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 11 Jun 2022 20:17:50 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 26 Jun 2022 15:52:18 +0000</lastBuildDate>
     
 	<atom:link href="https://tr7zw.github.io/tags/1.19/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>PaperDoll - 1.1.0 - Fabric 1.19 released</title>
+      <link>https://tr7zw.github.io/post/paperdoll-fabric-1.1.0-mc1.19-1.19/</link>
+      <pubDate>Sun, 26 Jun 2022 15:52:18 +0000</pubDate>
+      
+      <guid>https://tr7zw.github.io/post/paperdoll-fabric-1.1.0-mc1.19-1.19/</guid>
+      <description>Click to get this release</description>
+    </item>
+    
+    <item>
+      <title>PaperDoll - 1.1.0 - Forge 1.19 released</title>
+      <link>https://tr7zw.github.io/post/paperdoll-forge-1.1.0-mc1.19-1.19/</link>
+      <pubDate>Sun, 26 Jun 2022 15:50:57 +0000</pubDate>
+      
+      <guid>https://tr7zw.github.io/post/paperdoll-forge-1.1.0-mc1.19-1.19/</guid>
+      <description>Click to get this release</description>
+    </item>
+    
+    <item>
+      <title>FasterGUI Test 1</title>
+      <link>https://tr7zw.github.io/post/fastergui-test1/</link>
+      <pubDate>Sat, 18 Jun 2022 20:14:39 +0000</pubDate>
+      
+      <guid>https://tr7zw.github.io/post/fastergui-test1/</guid>
+      <description>Fist public test of FasterGUI</description>
+    </item>
     
     <item>
       <title>NBT-API 2.10.0 released</title>
@@ -17,6 +44,24 @@
       <pubDate>Sat, 11 Jun 2022 20:17:50 +0000</pubDate>
       
       <guid>https://tr7zw.github.io/post/nbtapi-2.10.0/</guid>
+      <description>Click to get this release</description>
+    </item>
+    
+    <item>
+      <title>FirstPersonMod - 2.1.0 - Fabric 1.19 released</title>
+      <link>https://tr7zw.github.io/post/firstperson-fabric-2.1.0-mc1.19-1.19/</link>
+      <pubDate>Sat, 11 Jun 2022 17:05:11 +0000</pubDate>
+      
+      <guid>https://tr7zw.github.io/post/firstperson-fabric-2.1.0-mc1.19-1.19/</guid>
+      <description>Click to get this release</description>
+    </item>
+    
+    <item>
+      <title>FirstPersonMod - 2.1.0 - Forge 1.19 released</title>
+      <link>https://tr7zw.github.io/post/firstperson-forge-2.1.0-mc1.19-1.19/</link>
+      <pubDate>Sat, 11 Jun 2022 17:04:39 +0000</pubDate>
+      
+      <guid>https://tr7zw.github.io/post/firstperson-forge-2.1.0-mc1.19-1.19/</guid>
       <description>Click to get this release</description>
     </item>
     
