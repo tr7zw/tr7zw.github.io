@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Meta on tr7zw&#39;s project space</title>
+    <link>https://tr7zw.github.io/tags/meta/</link>
+    <description>Recent content in Meta on tr7zw&#39;s project space</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 15 Sep 2022 17:43:49 +0000</lastBuildDate>
+    
+	<atom:link href="https://tr7zw.github.io/tags/meta/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Skin overview</title>
+      <link>https://tr7zw.github.io/skins/</link>
+      <pubDate>Thu, 15 Sep 2022 17:43:49 +0000</pubDate>
+      
+      <guid>https://tr7zw.github.io/skins/</guid>
+      <description>List of skins used to showcase my mods</description>
+    </item>
+    
+  </channel>
+</rss>
