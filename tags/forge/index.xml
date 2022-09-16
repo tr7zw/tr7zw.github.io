@@ -6,10 +6,19 @@
     <description>Recent content in Forge on tr7zw&#39;s project space</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 26 Apr 2022 17:49:39 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 14 Aug 2022 13:23:14 +0200</lastBuildDate>
     
 	<atom:link href="https://tr7zw.github.io/tags/forge/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>DisguiseHeads</title>
+      <link>https://tr7zw.github.io/project/disguiseheads/</link>
+      <pubDate>Sun, 14 Aug 2022 13:23:14 +0200</pubDate>
+      
+      <guid>https://tr7zw.github.io/project/disguiseheads/</guid>
+      <description>Swap skins when wearing a player head</description>
+    </item>
     
     <item>
       <title>WaveyCapes - 1.2.0 - Forge(1.12.2) released</title>
