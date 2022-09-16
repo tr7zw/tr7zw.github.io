@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Modrinth on tr7zw&#39;s project space</title>
+    <link>https://tr7zw.github.io/tags/modrinth/</link>
+    <description>Recent content in Modrinth on tr7zw&#39;s project space</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 16 Sep 2022 19:13:13 +0000</lastBuildDate>
+    
+	<atom:link href="https://tr7zw.github.io/tags/modrinth/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>GraphUtil - 1.0.0 - Fabric 1.18.x released</title>
+      <link>https://tr7zw.github.io/post/graphutil-1.0.0-fabric1.18.x/</link>
+      <pubDate>Fri, 16 Sep 2022 19:13:13 +0000</pubDate>
+      
+      <guid>https://tr7zw.github.io/post/graphutil-1.0.0-fabric1.18.x/</guid>
+      <description>Click to get this release</description>
+    </item>
+    
+    <item>
+      <title>GraphUtil - 1.0.0 - Fabric 1.19.x released</title>
+      <link>https://tr7zw.github.io/post/graphutil-1.0.0-fabric1.19.x/</link>
+      <pubDate>Fri, 16 Sep 2022 19:13:13 +0000</pubDate>
+      
+      <guid>https://tr7zw.github.io/post/graphutil-1.0.0-fabric1.19.x/</guid>
+      <description>Click to get this release</description>
+    </item>
+    
+    <item>
+      <title>GraphUtil - 1.0.0 - Forge 1.18.x  released</title>
+      <link>https://tr7zw.github.io/post/graphutil-1.0.0-forge1.18.x/</link>
+      <pubDate>Fri, 16 Sep 2022 19:13:13 +0000</pubDate>
+      
+      <guid>https://tr7zw.github.io/post/graphutil-1.0.0-forge1.18.x/</guid>
+      <description>Click to get this release</description>
+    </item>
+    
+    <item>
+      <title>GraphUtil - 1.0.0 - Forge 1.19.x released</title>
+      <link>https://tr7zw.github.io/post/graphutil-1.0.0-forge1.19.x/</link>
+      <pubDate>Fri, 16 Sep 2022 19:13:13 +0000</pubDate>
+      
+      <guid>https://tr7zw.github.io/post/graphutil-1.0.0-forge1.19.x/</guid>
+      <description>Click to get this release</description>
+    </item>
+    
+  </channel>
+</rss>
