@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>modeldumper on tr7zw&#39;s project space</title>
+    <link>https://tr7zw.github.io/tags/modeldumper/</link>
+    <description>Recent content in modeldumper on tr7zw&#39;s project space</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 13 Oct 2022 19:10:05 +0000</lastBuildDate>
+    
+	<atom:link href="https://tr7zw.github.io/tags/modeldumper/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>ModelDumper - 1.0.0 - 1.19 released</title>
+      <link>https://tr7zw.github.io/post/modeldumper-1.0.0-1.19/</link>
+      <pubDate>Thu, 13 Oct 2022 19:10:05 +0000</pubDate>
+      
+      <guid>https://tr7zw.github.io/post/modeldumper-1.0.0-1.19/</guid>
+      <description>Click to get this release</description>
+    </item>
+    
+  </channel>
+</rss>
