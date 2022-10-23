@@ -6,17 +6,35 @@
     <description>Recent content in Tags on tr7zw&#39;s project space</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 13 Oct 2022 20:10:52 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 20 Oct 2022 16:23:12 +0000</lastBuildDate>
     
 	<atom:link href="https://tr7zw.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>exordium</title>
+      <link>https://tr7zw.github.io/tags/exordium/</link>
+      <pubDate>Thu, 20 Oct 2022 16:23:12 +0000</pubDate>
+      
+      <guid>https://tr7zw.github.io/tags/exordium/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Fabric</title>
       <link>https://tr7zw.github.io/tags/fabric/</link>
-      <pubDate>Thu, 13 Oct 2022 20:10:52 +0000</pubDate>
+      <pubDate>Thu, 20 Oct 2022 16:23:12 +0000</pubDate>
       
       <guid>https://tr7zw.github.io/tags/fabric/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Modrinth</title>
+      <link>https://tr7zw.github.io/tags/modrinth/</link>
+      <pubDate>Thu, 20 Oct 2022 16:23:12 +0000</pubDate>
+      
+      <guid>https://tr7zw.github.io/tags/modrinth/</guid>
       <description></description>
     </item>
     
@@ -26,15 +44,6 @@
       <pubDate>Thu, 13 Oct 2022 20:10:52 +0000</pubDate>
       
       <guid>https://tr7zw.github.io/tags/itemswapper/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Modrinth</title>
-      <link>https://tr7zw.github.io/tags/modrinth/</link>
-      <pubDate>Thu, 13 Oct 2022 20:10:52 +0000</pubDate>
-      
-      <guid>https://tr7zw.github.io/tags/modrinth/</guid>
       <description></description>
     </item>
     

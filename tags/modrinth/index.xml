@@ -6,10 +6,19 @@
     <description>Recent content in Modrinth on tr7zw&#39;s project space</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 13 Oct 2022 20:10:52 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 20 Oct 2022 16:23:12 +0000</lastBuildDate>
     
 	<atom:link href="https://tr7zw.github.io/tags/modrinth/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Exordium - 1.0.2-1.19.2 released</title>
+      <link>https://tr7zw.github.io/post/exordium-1.0.2-1.19.2/</link>
+      <pubDate>Thu, 20 Oct 2022 16:23:12 +0000</pubDate>
+      
+      <guid>https://tr7zw.github.io/post/exordium-1.0.2-1.19.2/</guid>
+      <description>Click to get this release</description>
+    </item>
     
     <item>
       <title>ItemSwapper - 0.1.0 released</title>
@@ -26,6 +35,42 @@
       <pubDate>Thu, 13 Oct 2022 19:10:05 +0000</pubDate>
       
       <guid>https://tr7zw.github.io/post/modeldumper-1.0.0-1.19/</guid>
+      <description>Click to get this release</description>
+    </item>
+    
+    <item>
+      <title>Exordium - 1.0.1 - 1.19.1&#43; released</title>
+      <link>https://tr7zw.github.io/post/exordium-1.0.1-1.19.1&#43;/</link>
+      <pubDate>Tue, 27 Sep 2022 19:53:00 +0000</pubDate>
+      
+      <guid>https://tr7zw.github.io/post/exordium-1.0.1-1.19.1&#43;/</guid>
+      <description>Click to get this release</description>
+    </item>
+    
+    <item>
+      <title>Exordium - 1.0.1 - 1.18.x released</title>
+      <link>https://tr7zw.github.io/post/exordium-1.0.1-1.18.x/</link>
+      <pubDate>Tue, 27 Sep 2022 19:52:25 +0000</pubDate>
+      
+      <guid>https://tr7zw.github.io/post/exordium-1.0.1-1.18.x/</guid>
+      <description>Click to get this release</description>
+    </item>
+    
+    <item>
+      <title>Exordium - 1.0.0 - 1.18.x released</title>
+      <link>https://tr7zw.github.io/post/exordium-1.0.0-1.18.x/</link>
+      <pubDate>Sun, 25 Sep 2022 21:19:06 +0000</pubDate>
+      
+      <guid>https://tr7zw.github.io/post/exordium-1.0.0-1.18.x/</guid>
+      <description>Click to get this release</description>
+    </item>
+    
+    <item>
+      <title>Exordium - 1.0.0 - 1.19.1&#43; released</title>
+      <link>https://tr7zw.github.io/post/exordium-1.0.0-1.19.1&#43;/</link>
+      <pubDate>Sun, 25 Sep 2022 21:19:06 +0000</pubDate>
+      
+      <guid>https://tr7zw.github.io/post/exordium-1.0.0-1.19.1&#43;/</guid>
       <description>Click to get this release</description>
     </item>
     
