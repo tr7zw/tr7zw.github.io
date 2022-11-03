@@ -6,10 +6,19 @@
     <description>Recent content in Modrinth on tr7zw&#39;s project space</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 20 Oct 2022 16:23:12 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 31 Oct 2022 18:18:56 +0000</lastBuildDate>
     
 	<atom:link href="https://tr7zw.github.io/tags/modrinth/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>ItemSwapper - v0.2.0 released</title>
+      <link>https://tr7zw.github.io/post/itemswapper-v0.2.0/</link>
+      <pubDate>Mon, 31 Oct 2022 18:18:56 +0000</pubDate>
+      
+      <guid>https://tr7zw.github.io/post/itemswapper-v0.2.0/</guid>
+      <description>Click to get this release</description>
+    </item>
     
     <item>
       <title>Exordium - 1.0.2-1.19.2 released</title>
