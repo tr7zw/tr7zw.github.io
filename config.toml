@@ -23,6 +23,7 @@ unsafe= true
   location = "Frankfurt, Germany"
   enableGitalk = false
   avatar = "/images/profile.png"
+  mastodon = "https://mastodon.social/@tr7zw"
   twitter = "tr7zw"
   curseforge = "tr9zw"
   spigot = "tr7zw.27296"
