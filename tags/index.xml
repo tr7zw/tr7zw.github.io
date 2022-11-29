@@ -6,10 +6,37 @@
     <description>Recent content in Tags on tr7zw&#39;s project space</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 24 Nov 2022 21:26:07 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 28 Nov 2022 18:20:11 +0000</lastBuildDate>
     
 	<atom:link href="https://tr7zw.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Fabric</title>
+      <link>https://tr7zw.github.io/tags/fabric/</link>
+      <pubDate>Mon, 28 Nov 2022 18:20:11 +0000</pubDate>
+      
+      <guid>https://tr7zw.github.io/tags/fabric/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>itemswapper</title>
+      <link>https://tr7zw.github.io/tags/itemswapper/</link>
+      <pubDate>Mon, 28 Nov 2022 18:20:11 +0000</pubDate>
+      
+      <guid>https://tr7zw.github.io/tags/itemswapper/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Modrinth</title>
+      <link>https://tr7zw.github.io/tags/modrinth/</link>
+      <pubDate>Mon, 28 Nov 2022 18:20:11 +0000</pubDate>
+      
+      <guid>https://tr7zw.github.io/tags/modrinth/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>entityculling</title>
@@ -17,24 +44,6 @@
       <pubDate>Thu, 24 Nov 2022 21:26:07 +0000</pubDate>
       
       <guid>https://tr7zw.github.io/tags/entityculling/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Fabric</title>
-      <link>https://tr7zw.github.io/tags/fabric/</link>
-      <pubDate>Thu, 24 Nov 2022 21:26:07 +0000</pubDate>
-      
-      <guid>https://tr7zw.github.io/tags/fabric/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Modrinth</title>
-      <link>https://tr7zw.github.io/tags/modrinth/</link>
-      <pubDate>Thu, 24 Nov 2022 21:26:07 +0000</pubDate>
-      
-      <guid>https://tr7zw.github.io/tags/modrinth/</guid>
       <description></description>
     </item>
     
@@ -71,15 +80,6 @@
       <pubDate>Tue, 15 Nov 2022 22:05:01 +0000</pubDate>
       
       <guid>https://tr7zw.github.io/tags/firstperson/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>itemswapper</title>
-      <link>https://tr7zw.github.io/tags/itemswapper/</link>
-      <pubDate>Sat, 05 Nov 2022 16:37:16 +0000</pubDate>
-      
-      <guid>https://tr7zw.github.io/tags/itemswapper/</guid>
       <description></description>
     </item>
     
