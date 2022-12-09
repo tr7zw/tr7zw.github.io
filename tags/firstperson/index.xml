@@ -6,10 +6,19 @@
     <description>Recent content in firstperson on tr7zw&#39;s project space</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 15 Nov 2022 22:05:01 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 07 Dec 2022 17:06:24 +0000</lastBuildDate>
     
 	<atom:link href="https://tr7zw.github.io/tags/firstperson/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>FirstPersonMod - 2.2.0-1.19.3 - Fabric released</title>
+      <link>https://tr7zw.github.io/post/firstperson-fabric-2.2.0-mc1.19.3-1.19.3/</link>
+      <pubDate>Wed, 07 Dec 2022 17:06:24 +0000</pubDate>
+      
+      <guid>https://tr7zw.github.io/post/firstperson-fabric-2.2.0-mc1.19.3-1.19.3/</guid>
+      <description>Click to get this release</description>
+    </item>
     
     <item>
       <title>FirstPersonMod - 2.2.1-1.18 - Fabric 1.18.1 released</title>
