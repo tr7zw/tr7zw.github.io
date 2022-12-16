@@ -6,10 +6,19 @@
     <description>Recent content in forge on tr7zw&#39;s project space</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 09 Dec 2022 15:46:21 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 12 Dec 2022 17:39:23 +0000</lastBuildDate>
     
 	<atom:link href="https://tr7zw.github.io/tags/forge/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>GraphUtil - 1.0.0-1.19.3 - Forge released</title>
+      <link>https://tr7zw.github.io/post/graphutil-1.0.0-1.19.3-forge/</link>
+      <pubDate>Mon, 12 Dec 2022 17:39:23 +0000</pubDate>
+      
+      <guid>https://tr7zw.github.io/post/graphutil-1.0.0-1.19.3-forge/</guid>
+      <description>Click to get this release</description>
+    </item>
     
     <item>
       <title>EntityCulling - 1.5.2-1.19.3 Forge released</title>
