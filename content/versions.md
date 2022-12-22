@@ -20,6 +20,7 @@ summary: "Version support overview"
 | GraphUtil             | ✅    | ✅    |      |      |      |      |      |     |
 | Exordium        | ✅🧶   | ✅🧶   |      |      |      |      |      |     |
 | ModelDumper      | ✅🧶   | ✅🧶   |      |      |      |      |      |     |
+| ItemSwapper      | ✅🧶   | 🕓🧶   |      |      |      |      |      |     |
 
 ✅ = Supported, ❌ = Not supported, 🚧 = Work in progress, 🕓 = Planned, ⚠️ = Partially supported, 🧶 = Fabric only, 🔨 = Forge only
 
@@ -29,3 +30,4 @@ summary: "Version support overview"
 - Sodium+Iris is more important than Optifine
 - Latest version is more important than older versions(1.19>1.18)
 - Legacy versions(1.8, 1.12, 1.16) are not a priority and most mods will not be backported to them
+- Latest minor version is always more important than older minor versions(1.19.3>1.19.2)
