@@ -7,22 +7,29 @@ summary: "Version support overview"
 ---
 # Version support overview
 
-| Mod                   | 1.19 | 1.18 | 1.17 | 1.16 | 1.15 | 1.14 | 1.12 | 1.8 |
-| --------------------- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | --- |
-| EntityCulling         | ✅    | ✅    | ❌    | ⚠️    |      |      | 🕓🔨   | ⚠️🔨  |
-| 3d Skin Layers        | ✅    | ✅    | ❌    | ⚠️    |      |      | ⚠️🔨   | ⚠️🔨  |
-| Not Enough Animations | ✅    | ✅    | ❌    | ❌    |      |      |      |     |
-| FirstPerson Mod       | ✅    | ✅    | ❌    | ❌    | ❌    | ❌    |      |     |
-| WaveyCapes            | ✅    | ✅    | ❌    | ⚠️    |      |      | ⚠️🔨   | ⚠️🔨  |
-| Paperdoll             | ✅    | ✅    | ❌    | ❌    |      |      |      |     |
-| MiniMePets            | ✅    | ✅    |      |      |      |      |      |     |
-| DisguiseHeads         | ✅    | ✅    |      |      |      |      |      |     |
-| GraphUtil             | ✅    | ✅    |      |      |      |      |      |     |
-| Exordium        | ✅🧶   | ✅🧶   |      |      |      |      |      |     |
-| ModelDumper      | ✅🧶   | ✅🧶   |      |      |      |      |      |     |
-| ItemSwapper      | ✅🧶   | 🕓🧶   |      |      |      |      |      |     |
+| Mod                   | 1.19.3+ | 1.19 | 1.18 | 1.17 | 1.16 | 1.15 | 1.14 | 1.12 | 1.8 |
+| --------------------- | ------- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | --- |
+| EntityCulling         | ✅       | ✅    | ✅    | ❌    | ⚠️    |      |      | 🕓🔨   | ⚠️🔨  |
+| 3d Skin Layers        | ✅       | ✅    | ✅    | ❌    | ⚠️    |      |      | ⚠️🔨   | ⚠️🔨  |
+| Not Enough Animations | ✅       | ✅    | ✅    | ❌    | ❌    |      |      |      |     |
+| FirstPerson Mod       | ✅       | ✅    | ✅    | ❌    | ❌    | ❌    | ❌    |      |     |
+| WaveyCapes            | ✅       | ✅🪄   | ✅🪄   | ✅🪄   | ✅🪄   |      |      | ⚠️🔨   | ⚠️🔨  |
+| Paperdoll             | ✅       | ✅    | ✅    | ❌    | ❌    |      |      |      |     |
+| MiniMePets            | ✅       | ✅    | ✅    |      |      |      |      |      |     |
+| DisguiseHeads         | ✅       | ✅    | ✅    |      |      |      |      |      |     |
+| GraphUtil             | ✅       | ✅    | ✅    |      |      |      |      |      |     |
+| Exordium              | ✅🧶      | ✅🧶   | ✅🧶   |      |      |      |      |      |     |
+| ModelDumper           | ✅🧶      | ✅🧶   | ✅🧶   |      |      |      |      |      |     |
+| ItemSwapper           | ✅🚧🧶      | ⚠️🕓🪄🧶 | 🕓🪄🧶  |      |      |      |      |      |     |
 
-✅ = Supported, ❌ = Not supported, 🚧 = Work in progress, 🕓 = Planned, ⚠️ = Partially supported, 🧶 = Fabric only, 🔨 = Forge only
+- ✅ = Supported
+- ❌ = Not supported
+- 🚧 = Work in progress
+- 🕓 = Planned
+- ⚠️ = Partially supported(Gets irregular updates)
+- 🧶 = Fabric only
+- 🔨 = Forge only
+- 🪄 = Direct Fork Backport(Based on the latest MC release version)
 
 ## Priorities
 
