@@ -6,10 +6,19 @@
     <description>Recent content in Modrinth on tr7zw&#39;s project space</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 14 Mar 2023 19:04:11 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 15 Mar 2023 20:40:53 +0000</lastBuildDate>
     
 	<atom:link href="https://tr7zw.github.io/tags/modrinth/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>EntityCulling - 1.6.2-1.19.4 - Forge released</title>
+      <link>https://tr7zw.github.io/post/entityculling-1.6.2-1.19.4-forge/</link>
+      <pubDate>Wed, 15 Mar 2023 20:40:53 +0000</pubDate>
+      
+      <guid>https://tr7zw.github.io/post/entityculling-1.6.2-1.19.4-forge/</guid>
+      <description>Click to get this release</description>
+    </item>
     
     <item>
       <title>Exordium - 1.0.3-1.19.4 released</title>
