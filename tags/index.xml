@@ -6,15 +6,42 @@
     <description>Recent content in Tags on tr7zw&#39;s project space</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 18 Mar 2023 23:04:36 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 08 Apr 2023 22:42:45 +0000</lastBuildDate>
     
 	<atom:link href="https://tr7zw.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>Fabric</title>
+      <link>https://tr7zw.github.io/tags/fabric/</link>
+      <pubDate>Sat, 08 Apr 2023 22:42:45 +0000</pubDate>
+      
+      <guid>https://tr7zw.github.io/tags/fabric/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>itemswapper</title>
+      <link>https://tr7zw.github.io/tags/itemswapper/</link>
+      <pubDate>Sat, 08 Apr 2023 22:42:45 +0000</pubDate>
+      
+      <guid>https://tr7zw.github.io/tags/itemswapper/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Modrinth</title>
+      <link>https://tr7zw.github.io/tags/modrinth/</link>
+      <pubDate>Sat, 08 Apr 2023 22:42:45 +0000</pubDate>
+      
+      <guid>https://tr7zw.github.io/tags/modrinth/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>1.19.4</title>
       <link>https://tr7zw.github.io/tags/1.19.4/</link>
-      <pubDate>Sat, 18 Mar 2023 23:04:36 +0000</pubDate>
+      <pubDate>Tue, 21 Mar 2023 22:47:23 +0000</pubDate>
       
       <guid>https://tr7zw.github.io/tags/1.19.4/</guid>
       <description></description>
@@ -23,9 +50,18 @@
     <item>
       <title>Curseforge</title>
       <link>https://tr7zw.github.io/tags/curseforge/</link>
-      <pubDate>Sat, 18 Mar 2023 23:04:36 +0000</pubDate>
+      <pubDate>Tue, 21 Mar 2023 22:47:23 +0000</pubDate>
       
       <guid>https://tr7zw.github.io/tags/curseforge/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>paperdoll</title>
+      <link>https://tr7zw.github.io/tags/paperdoll/</link>
+      <pubDate>Tue, 21 Mar 2023 22:47:23 +0000</pubDate>
+      
+      <guid>https://tr7zw.github.io/tags/paperdoll/</guid>
       <description></description>
     </item>
     
@@ -75,15 +111,6 @@
     </item>
     
     <item>
-      <title>Modrinth</title>
-      <link>https://tr7zw.github.io/tags/modrinth/</link>
-      <pubDate>Wed, 15 Mar 2023 20:40:53 +0000</pubDate>
-      
-      <guid>https://tr7zw.github.io/tags/modrinth/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>1.19.3</title>
       <link>https://tr7zw.github.io/tags/1.19.3/</link>
       <pubDate>Tue, 14 Mar 2023 20:05:51 +0000</pubDate>
@@ -98,15 +125,6 @@
       <pubDate>Tue, 14 Mar 2023 19:04:11 +0000</pubDate>
       
       <guid>https://tr7zw.github.io/tags/exordium/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Fabric</title>
-      <link>https://tr7zw.github.io/tags/fabric/</link>
-      <pubDate>Tue, 14 Mar 2023 19:04:11 +0000</pubDate>
-      
-      <guid>https://tr7zw.github.io/tags/fabric/</guid>
       <description></description>
     </item>
     
@@ -161,24 +179,6 @@
       <pubDate>Sat, 11 Feb 2023 19:46:11 +0000</pubDate>
       
       <guid>https://tr7zw.github.io/tags/1.18.1/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>paperdoll</title>
-      <link>https://tr7zw.github.io/tags/paperdoll/</link>
-      <pubDate>Fri, 16 Dec 2022 17:40:08 +0000</pubDate>
-      
-      <guid>https://tr7zw.github.io/tags/paperdoll/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>itemswapper</title>
-      <link>https://tr7zw.github.io/tags/itemswapper/</link>
-      <pubDate>Thu, 15 Dec 2022 19:52:45 +0000</pubDate>
-      
-      <guid>https://tr7zw.github.io/tags/itemswapper/</guid>
       <description></description>
     </item>
     
