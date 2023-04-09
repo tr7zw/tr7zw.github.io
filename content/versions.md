@@ -20,7 +20,7 @@ summary: "Version support overview"
 | GraphUtil             | ✅       | ✅      | ✅      |        |        |        |        |        |         |
 | Exordium              | ✅🧶      | ✅🧶     | ✅🧶     |        |        |        |        |        |         |
 | ModelDumper           | ✅🧶      | ✅🧶     | ✅🧶     |        |        |        |        |        |         |
-| ItemSwapper           | ✅🚧🧶     | ⚠️🕓🪄🧶   | 🕓🪄🧶    |        |        |        |        |        |         |
+| ItemSwapper           | ✅🧶     | ✅🪄   | ✅🪄    |        |        |        |        |        |         |
 
 - ✅ = Supported
 - ❌ = Not supported
