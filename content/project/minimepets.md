@@ -12,7 +12,6 @@ curseforgeid: 593627
 curseforge: "mc-mods/minimepets"
 summary: "Turn wolfs and cats into small players using a nametag"
 pin: false
-sonarcloud: "tr7zw_MiniMePets"
 ---
 ![](https://tr7zw.dev/curse/MiniMePet-banner.png)
 
