@@ -6,10 +6,28 @@
     <description>Recent content in Posts on tr7zw&#39;s project space</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 08 Apr 2023 22:42:45 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 10 May 2023 15:19:05 +0000</lastBuildDate>
     
 	<atom:link href="https://tr7zw.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>GraphUtil - 1.0.0-1.19.4 - Fabric released</title>
+      <link>https://tr7zw.github.io/post/graphutil-1.0.0-1.19.4-fabric/</link>
+      <pubDate>Wed, 10 May 2023 15:19:05 +0000</pubDate>
+      
+      <guid>https://tr7zw.github.io/post/graphutil-1.0.0-1.19.4-fabric/</guid>
+      <description>Click to get this release</description>
+    </item>
+    
+    <item>
+      <title>GraphUtil - 1.0.0-1.19.4 - Forge released</title>
+      <link>https://tr7zw.github.io/post/graphutil-1.0.0-1.19.4-forge/</link>
+      <pubDate>Wed, 10 May 2023 15:19:01 +0000</pubDate>
+      
+      <guid>https://tr7zw.github.io/post/graphutil-1.0.0-1.19.4-forge/</guid>
+      <description>Click to get this release</description>
+    </item>
     
     <item>
       <title>ItemSwapper - v0.4.0-1.18.2 - Fabric released</title>
