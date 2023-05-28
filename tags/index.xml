@@ -6,7 +6,7 @@
     <description>Recent content in Tags on tr7zw&#39;s project space</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 28 May 2023 15:47:47 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 28 May 2023 17:27:19 +0000</lastBuildDate>
     
 	<atom:link href="https://tr7zw.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,7 +14,7 @@
     <item>
       <title>1.19.4</title>
       <link>https://tr7zw.github.io/tags/1.19.4/</link>
-      <pubDate>Sun, 28 May 2023 15:47:47 +0000</pubDate>
+      <pubDate>Sun, 28 May 2023 17:27:19 +0000</pubDate>
       
       <guid>https://tr7zw.github.io/tags/1.19.4/</guid>
       <description></description>
@@ -23,9 +23,36 @@
     <item>
       <title>Curseforge</title>
       <link>https://tr7zw.github.io/tags/curseforge/</link>
-      <pubDate>Sun, 28 May 2023 15:47:47 +0000</pubDate>
+      <pubDate>Sun, 28 May 2023 17:27:19 +0000</pubDate>
       
       <guid>https://tr7zw.github.io/tags/curseforge/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>exordium</title>
+      <link>https://tr7zw.github.io/tags/exordium/</link>
+      <pubDate>Sun, 28 May 2023 17:27:19 +0000</pubDate>
+      
+      <guid>https://tr7zw.github.io/tags/exordium/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fabric</title>
+      <link>https://tr7zw.github.io/tags/fabric/</link>
+      <pubDate>Sun, 28 May 2023 17:18:54 +0000</pubDate>
+      
+      <guid>https://tr7zw.github.io/tags/fabric/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Modrinth</title>
+      <link>https://tr7zw.github.io/tags/modrinth/</link>
+      <pubDate>Sun, 28 May 2023 17:18:54 +0000</pubDate>
+      
+      <guid>https://tr7zw.github.io/tags/modrinth/</guid>
       <description></description>
     </item>
     
@@ -35,33 +62,6 @@
       <pubDate>Sun, 28 May 2023 15:47:47 +0000</pubDate>
       
       <guid>https://tr7zw.github.io/tags/notenoughanimations/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>exordium</title>
-      <link>https://tr7zw.github.io/tags/exordium/</link>
-      <pubDate>Sun, 28 May 2023 15:03:22 +0000</pubDate>
-      
-      <guid>https://tr7zw.github.io/tags/exordium/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Fabric</title>
-      <link>https://tr7zw.github.io/tags/fabric/</link>
-      <pubDate>Sun, 28 May 2023 15:03:22 +0000</pubDate>
-      
-      <guid>https://tr7zw.github.io/tags/fabric/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Modrinth</title>
-      <link>https://tr7zw.github.io/tags/modrinth/</link>
-      <pubDate>Sun, 28 May 2023 15:03:22 +0000</pubDate>
-      
-      <guid>https://tr7zw.github.io/tags/modrinth/</guid>
       <description></description>
     </item>
     
