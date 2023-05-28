@@ -6,10 +6,19 @@
     <description>Recent content in Fabric on tr7zw&#39;s project space</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 10 May 2023 15:19:05 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 28 May 2023 15:03:22 +0000</lastBuildDate>
     
 	<atom:link href="https://tr7zw.github.io/tags/fabric/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Exordium - 1.0.2-1.19.2 - Hotfix released</title>
+      <link>https://tr7zw.github.io/post/exordium-1.0.2-1.19.2-hotfix/</link>
+      <pubDate>Sun, 28 May 2023 15:03:22 +0000</pubDate>
+      
+      <guid>https://tr7zw.github.io/post/exordium-1.0.2-1.19.2-hotfix/</guid>
+      <description>Click to get this release</description>
+    </item>
     
     <item>
       <title>GraphUtil - 1.0.0-1.19.4 - Fabric released</title>

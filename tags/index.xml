@@ -6,17 +6,35 @@
     <description>Recent content in Tags on tr7zw&#39;s project space</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 10 May 2023 15:19:05 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 28 May 2023 15:03:22 +0000</lastBuildDate>
     
 	<atom:link href="https://tr7zw.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>exordium</title>
+      <link>https://tr7zw.github.io/tags/exordium/</link>
+      <pubDate>Sun, 28 May 2023 15:03:22 +0000</pubDate>
+      
+      <guid>https://tr7zw.github.io/tags/exordium/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Fabric</title>
       <link>https://tr7zw.github.io/tags/fabric/</link>
-      <pubDate>Wed, 10 May 2023 15:19:05 +0000</pubDate>
+      <pubDate>Sun, 28 May 2023 15:03:22 +0000</pubDate>
       
       <guid>https://tr7zw.github.io/tags/fabric/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Modrinth</title>
+      <link>https://tr7zw.github.io/tags/modrinth/</link>
+      <pubDate>Sun, 28 May 2023 15:03:22 +0000</pubDate>
+      
+      <guid>https://tr7zw.github.io/tags/modrinth/</guid>
       <description></description>
     </item>
     
@@ -26,15 +44,6 @@
       <pubDate>Wed, 10 May 2023 15:19:05 +0000</pubDate>
       
       <guid>https://tr7zw.github.io/tags/graphutil/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Modrinth</title>
-      <link>https://tr7zw.github.io/tags/modrinth/</link>
-      <pubDate>Wed, 10 May 2023 15:19:05 +0000</pubDate>
-      
-      <guid>https://tr7zw.github.io/tags/modrinth/</guid>
       <description></description>
     </item>
     
@@ -125,15 +134,6 @@
       <pubDate>Tue, 14 Mar 2023 20:05:51 +0000</pubDate>
       
       <guid>https://tr7zw.github.io/tags/1.19.3/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>exordium</title>
-      <link>https://tr7zw.github.io/tags/exordium/</link>
-      <pubDate>Tue, 14 Mar 2023 19:04:11 +0000</pubDate>
-      
-      <guid>https://tr7zw.github.io/tags/exordium/</guid>
       <description></description>
     </item>
     
