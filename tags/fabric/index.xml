@@ -6,10 +6,73 @@
     <description>Recent content in Fabric on tr7zw&#39;s project space</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 28 May 2023 17:18:54 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 09 Jun 2023 16:00:54 +0000</lastBuildDate>
     
 	<atom:link href="https://tr7zw.github.io/tags/fabric/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>ModelDumper - 1.0.0 - 1.20 released</title>
+      <link>https://tr7zw.github.io/post/modeldumper-1.0.0-1.20/</link>
+      <pubDate>Fri, 09 Jun 2023 16:00:54 +0000</pubDate>
+      
+      <guid>https://tr7zw.github.io/post/modeldumper-1.0.0-1.20/</guid>
+      <description>Click to get this release</description>
+    </item>
+    
+    <item>
+      <title>GraphUtil - 1.0.0-1.20 - Fabric released</title>
+      <link>https://tr7zw.github.io/post/graphutil-1.0.0-1.20-fabric/</link>
+      <pubDate>Fri, 09 Jun 2023 15:45:03 +0000</pubDate>
+      
+      <guid>https://tr7zw.github.io/post/graphutil-1.0.0-1.20-fabric/</guid>
+      <description>Click to get this release</description>
+    </item>
+    
+    <item>
+      <title>ItemSwapper - v0.4.0-1.20 - Fabric released</title>
+      <link>https://tr7zw.github.io/post/itemswapper-v0.4.0-1.20-fabric/</link>
+      <pubDate>Fri, 09 Jun 2023 13:58:24 +0000</pubDate>
+      
+      <guid>https://tr7zw.github.io/post/itemswapper-v0.4.0-1.20-fabric/</guid>
+      <description>Click to get this release</description>
+    </item>
+    
+    <item>
+      <title>WaveyCapes - 1.4.0-1.20 - Fabric released</title>
+      <link>https://tr7zw.github.io/post/waveycapes-1.4.0-1.20-fabric/</link>
+      <pubDate>Thu, 08 Jun 2023 13:13:01 +0000</pubDate>
+      
+      <guid>https://tr7zw.github.io/post/waveycapes-1.4.0-1.20-fabric/</guid>
+      <description>Click to get this release</description>
+    </item>
+    
+    <item>
+      <title>EntityCulling - 1.6.2-1.20 - Fabric released</title>
+      <link>https://tr7zw.github.io/post/entityculling-1.6.2-1.20-fabric/</link>
+      <pubDate>Thu, 08 Jun 2023 12:24:47 +0000</pubDate>
+      
+      <guid>https://tr7zw.github.io/post/entityculling-1.6.2-1.20-fabric/</guid>
+      <description>Click to get this release</description>
+    </item>
+    
+    <item>
+      <title>WaveyCapes - 1.4.0-1.19.3 - Fabric released</title>
+      <link>https://tr7zw.github.io/post/waveycapes-1.4.0-1.19.3-fabric/</link>
+      <pubDate>Mon, 05 Jun 2023 18:29:50 +0000</pubDate>
+      
+      <guid>https://tr7zw.github.io/post/waveycapes-1.4.0-1.19.3-fabric/</guid>
+      <description>Click to get this release</description>
+    </item>
+    
+    <item>
+      <title>Exordium - 1.1.1-1.19.4 - Fabric released</title>
+      <link>https://tr7zw.github.io/post/exordium-1.1.1-1.19.4-fabric/</link>
+      <pubDate>Fri, 02 Jun 2023 14:28:13 +0000</pubDate>
+      
+      <guid>https://tr7zw.github.io/post/exordium-1.1.1-1.19.4-fabric/</guid>
+      <description>Click to get this release</description>
+    </item>
     
     <item>
       <title>Exordium - 1.1.0-1.19.4 - Fabric released</title>
