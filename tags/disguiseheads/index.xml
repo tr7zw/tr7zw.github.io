@@ -6,10 +6,19 @@
     <description>Recent content in disguiseheads on tr7zw&#39;s project space</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 09 Jun 2023 15:20:36 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 09 Jun 2023 15:20:38 +0000</lastBuildDate>
     
 	<atom:link href="https://tr7zw.github.io/tags/disguiseheads/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>DisguiseHeads - v1.0.2-1.20 - Fabric released</title>
+      <link>https://tr7zw.github.io/post/disguiseheads-v1.0.2-1.20-fabric/</link>
+      <pubDate>Fri, 09 Jun 2023 15:20:38 +0000</pubDate>
+      
+      <guid>https://tr7zw.github.io/post/disguiseheads-v1.0.2-1.20-fabric/</guid>
+      <description>Click to get this release</description>
+    </item>
     
     <item>
       <title>DisguiseHeads - v1.0.2-1.20 - Fabric released</title>
@@ -22,10 +31,28 @@
     
     <item>
       <title>DisguiseHeads - v1.0.2-1.20 - Forge released</title>
+      <link>https://tr7zw.github.io/post/disguiseheads-v1.0.2-1.20-forge/</link>
+      <pubDate>Fri, 09 Jun 2023 15:20:35 +0000</pubDate>
+      
+      <guid>https://tr7zw.github.io/post/disguiseheads-v1.0.2-1.20-forge/</guid>
+      <description>Click to get this release</description>
+    </item>
+    
+    <item>
+      <title>DisguiseHeads - v1.0.2-1.20 - Forge released</title>
       <link>https://tr7zw.github.io/post/disguiseheads-forge-1.0.1-mc1.20-1.20/</link>
       <pubDate>Fri, 09 Jun 2023 15:20:34 +0000</pubDate>
       
       <guid>https://tr7zw.github.io/post/disguiseheads-forge-1.0.1-mc1.20-1.20/</guid>
+      <description>Click to get this release</description>
+    </item>
+    
+    <item>
+      <title>DisguiseHeads - v1.0.2-1.19 - Fabric released</title>
+      <link>https://tr7zw.github.io/post/disguiseheads-v1.0.2-1.19-fabric/</link>
+      <pubDate>Mon, 31 Oct 2022 20:02:56 +0000</pubDate>
+      
+      <guid>https://tr7zw.github.io/post/disguiseheads-v1.0.2-1.19-fabric/</guid>
       <description>Click to get this release</description>
     </item>
     
@@ -48,6 +75,15 @@
     </item>
     
     <item>
+      <title>DisguiseHeads - v1.0.2-1.19 - Forge released</title>
+      <link>https://tr7zw.github.io/post/disguiseheads-v1.0.2-1.19-forge/</link>
+      <pubDate>Mon, 31 Oct 2022 20:02:53 +0000</pubDate>
+      
+      <guid>https://tr7zw.github.io/post/disguiseheads-v1.0.2-1.19-forge/</guid>
+      <description>Click to get this release</description>
+    </item>
+    
+    <item>
       <title>DisguiseHeads - v1.0.2-1.19 - Forge 1.19.2 released</title>
       <link>https://tr7zw.github.io/post/disguiseheads-forge-1.0.1-mc1.19.2-1.19.2/</link>
       <pubDate>Mon, 31 Oct 2022 20:02:51 +0000</pubDate>
@@ -62,6 +98,42 @@
       <pubDate>Mon, 31 Oct 2022 20:02:51 +0000</pubDate>
       
       <guid>https://tr7zw.github.io/post/disguiseheads-forge-1.0.1-mc1.19.2-1.19.3/</guid>
+      <description>Click to get this release</description>
+    </item>
+    
+    <item>
+      <title>DisguiseHeads - 1.0.0 - Fabric 1.18.x released</title>
+      <link>https://tr7zw.github.io/post/disguiseheads-1.0.0-fabric1.18.x/</link>
+      <pubDate>Mon, 12 Sep 2022 15:53:44 +0000</pubDate>
+      
+      <guid>https://tr7zw.github.io/post/disguiseheads-1.0.0-fabric1.18.x/</guid>
+      <description>Click to get this release</description>
+    </item>
+    
+    <item>
+      <title>DisguiseHeads - 1.0.0 - Fabric 1.19.x  released</title>
+      <link>https://tr7zw.github.io/post/disguiseheads-1.0.0-fabric1.19.x/</link>
+      <pubDate>Mon, 12 Sep 2022 15:53:44 +0000</pubDate>
+      
+      <guid>https://tr7zw.github.io/post/disguiseheads-1.0.0-fabric1.19.x/</guid>
+      <description>Click to get this release</description>
+    </item>
+    
+    <item>
+      <title>DisguiseHeads - 1.0.0 - Forge 1.18.x released</title>
+      <link>https://tr7zw.github.io/post/disguiseheads-1.0.0-forge1.18.x/</link>
+      <pubDate>Mon, 12 Sep 2022 15:53:44 +0000</pubDate>
+      
+      <guid>https://tr7zw.github.io/post/disguiseheads-1.0.0-forge1.18.x/</guid>
+      <description>Click to get this release</description>
+    </item>
+    
+    <item>
+      <title>DisguiseHeads - 1.0.0 - Forge 1.19.x released</title>
+      <link>https://tr7zw.github.io/post/disguiseheads-1.0.0-forge1.19.x/</link>
+      <pubDate>Mon, 12 Sep 2022 15:53:44 +0000</pubDate>
+      
+      <guid>https://tr7zw.github.io/post/disguiseheads-1.0.0-forge1.19.x/</guid>
       <description>Click to get this release</description>
     </item>
     

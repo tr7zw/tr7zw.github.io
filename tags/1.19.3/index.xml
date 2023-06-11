@@ -6,10 +6,19 @@
     <description>Recent content in 1.19.3 on tr7zw&#39;s project space</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 05 Jun 2023 18:29:47 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 09 Jun 2023 13:58:19 +0000</lastBuildDate>
     
 	<atom:link href="https://tr7zw.github.io/tags/1.19.3/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>ItemSwapper - v0.4.0-1.20 - Fabric 1.19.3 released</title>
+      <link>https://tr7zw.github.io/post/itemswapper-fabric-0.4.0-mc1.20-1.19.3/</link>
+      <pubDate>Fri, 09 Jun 2023 13:58:19 +0000</pubDate>
+      
+      <guid>https://tr7zw.github.io/post/itemswapper-fabric-0.4.0-mc1.20-1.19.3/</guid>
+      <description>Click to get this release</description>
+    </item>
     
     <item>
       <title>WaveyCapes - 1.4.0-1.19.3 - Fabric released</title>
@@ -26,6 +35,15 @@
       <pubDate>Mon, 05 Jun 2023 18:29:43 +0000</pubDate>
       
       <guid>https://tr7zw.github.io/post/waveycapes-forge-1.4.0-mc1.19.3-1.19.3/</guid>
+      <description>Click to get this release</description>
+    </item>
+    
+    <item>
+      <title>ItemSwapper - v0.4.0-1.19.3 - Fabric released</title>
+      <link>https://tr7zw.github.io/post/itemswapper-fabric-0.4.0-mc1.19.3-1.19.3/</link>
+      <pubDate>Sat, 08 Apr 2023 22:29:26 +0000</pubDate>
+      
+      <guid>https://tr7zw.github.io/post/itemswapper-fabric-0.4.0-mc1.19.3-1.19.3/</guid>
       <description>Click to get this release</description>
     </item>
     
@@ -228,6 +246,15 @@
     </item>
     
     <item>
+      <title>ItemSwapper - v0.3.2-1.19.3 released</title>
+      <link>https://tr7zw.github.io/post/itemswapper-fabric-0.3.2-mc1.19.3-1.19.3/</link>
+      <pubDate>Thu, 15 Dec 2022 19:52:43 +0000</pubDate>
+      
+      <guid>https://tr7zw.github.io/post/itemswapper-fabric-0.3.2-mc1.19.3-1.19.3/</guid>
+      <description>Click to get this release</description>
+    </item>
+    
+    <item>
       <title>WaveyCapes - 1.2.2-1.19.3 - Fabric released</title>
       <link>https://tr7zw.github.io/post/waveycapes-fabric-1.2.2-mc1.19.3-1.19.3/</link>
       <pubDate>Sun, 11 Dec 2022 17:53:28 +0000</pubDate>
@@ -260,6 +287,15 @@
       <pubDate>Sat, 10 Dec 2022 16:45:29 +0000</pubDate>
       
       <guid>https://tr7zw.github.io/post/firstperson-forge-2.2.0-mc1.19.3-1.19.3/</guid>
+      <description>Click to get this release</description>
+    </item>
+    
+    <item>
+      <title>ItemSwapper - Plugin 0.0.1 for Spigot/Paper servers 1.19.3 released</title>
+      <link>https://tr7zw.github.io/post/itemswapperplugin-0.0.1-snapshot-1.19.3/</link>
+      <pubDate>Fri, 09 Dec 2022 16:07:19 +0000</pubDate>
+      
+      <guid>https://tr7zw.github.io/post/itemswapperplugin-0.0.1-snapshot-1.19.3/</guid>
       <description>Click to get this release</description>
     </item>
     
