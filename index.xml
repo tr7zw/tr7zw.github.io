@@ -6,10 +6,19 @@
     <description>Recent content on tr7zw&#39;s project space</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 09 Jun 2023 16:00:54 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 12 Jun 2023 16:54:26 +0000</lastBuildDate>
     
 	<atom:link href="https://tr7zw.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Exordium - 1.1.2-1.19.4 - Fabric released</title>
+      <link>https://tr7zw.github.io/post/exordium-1.1.2-1.19.4-fabric/</link>
+      <pubDate>Mon, 12 Jun 2023 16:54:26 +0000</pubDate>
+      
+      <guid>https://tr7zw.github.io/post/exordium-1.1.2-1.19.4-fabric/</guid>
+      <description>Click to get this release</description>
+    </item>
     
     <item>
       <title>ModelDumper - 1.0.0 - 1.20 released</title>
