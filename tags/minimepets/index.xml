@@ -6,10 +6,28 @@
     <description>Recent content in minimepets on tr7zw&#39;s project space</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 05 Aug 2022 14:09:58 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 18 Jun 2023 22:44:18 +0000</lastBuildDate>
     
 	<atom:link href="https://tr7zw.github.io/tags/minimepets/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>MiniMePets - 1.0.1 - Fabric Client released</title>
+      <link>https://tr7zw.github.io/post/minimepets-fabric-1.0.1-mc1.20.1-client/</link>
+      <pubDate>Sun, 18 Jun 2023 22:44:18 +0000</pubDate>
+      
+      <guid>https://tr7zw.github.io/post/minimepets-fabric-1.0.1-mc1.20.1-client/</guid>
+      <description>Click to get this release</description>
+    </item>
+    
+    <item>
+      <title>MiniMePets - 1.0.1 - Forge Client released</title>
+      <link>https://tr7zw.github.io/post/minimepets-forge-1.0.1-mc1.20.1-client/</link>
+      <pubDate>Sun, 18 Jun 2023 22:43:48 +0000</pubDate>
+      
+      <guid>https://tr7zw.github.io/post/minimepets-forge-1.0.1-mc1.20.1-client/</guid>
+      <description>Click to get this release</description>
+    </item>
     
     <item>
       <title>MiniMePets - 1.0.1 - Fabric 1.19.1 released</title>
