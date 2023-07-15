@@ -6,10 +6,19 @@
     <description>Recent content in Projects on tr7zw&#39;s project space</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 16 Sep 2022 13:23:14 +0200</lastBuildDate>
+    <lastBuildDate>Sun, 14 May 2023 13:23:14 +0200</lastBuildDate>
     
 	<atom:link href="https://tr7zw.github.io/project/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>ItemSwapper</title>
+      <link>https://tr7zw.github.io/project/itemswapper/</link>
+      <pubDate>Sun, 14 May 2023 13:23:14 +0200</pubDate>
+      
+      <guid>https://tr7zw.github.io/project/itemswapper/</guid>
+      <description>Inventory update concept for hotswapping items</description>
+    </item>
     
     <item>
       <title>GraphUtil</title>
