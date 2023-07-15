@@ -11,7 +11,7 @@ unsafe= true
 
 [params]
   author = "tr7zw's project space"
-  description = "Developer of Minecraft Mods and Plugins. Also working and contributing to other open source projects."
+  description = "Developer of Minecraft Mods and Plugins. Also working with and contributing to other open source projects."
   github = "tr7zw"
   email = "contact@tr7zw.dev"
   url = "https://tr7zw.dev"
