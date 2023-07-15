@@ -2,7 +2,7 @@
 title: "DisguiseHeads"
 date: 2022-08-14T13:23:14+02:00
 draft: false
-tags: ["fabric", "forge"]
+tags: ["fabric", "forge", "tr7zw Protective License"]
 Cover: "/images/disguiseheads-logo.png"
 githubuser: "tr7zw"
 githubrepo: "DisguiseHeads"

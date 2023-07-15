@@ -2,7 +2,7 @@
 title: "NBTAPI"
 date: 2021-05-14T13:23:14+02:00
 draft: false
-tags: ["spigot", "paper"]
+tags: ["spigot", "paper", "MIT"]
 Cover: "/images/nbtapi-logo.png"
 githubuser: "tr7zw"
 githubrepo: "Item-NBT-API"

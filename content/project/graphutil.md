@@ -2,7 +2,7 @@
 title: "GraphUtil"
 date: 2022-09-16T13:23:14+02:00
 draft: false
-tags: ["fabric", "forge"]
+tags: ["fabric", "forge", "tr7zw Protective License"]
 Cover: "/images/graphutil-logo.png"
 githubuser: "tr7zw"
 githubrepo: "GraphUtil"

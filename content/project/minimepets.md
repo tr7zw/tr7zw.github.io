@@ -2,7 +2,7 @@
 title: "MiniMePets"
 date: 2021-04-14T13:23:14+02:00
 draft: false
-tags: ["fabric", "forge"]
+tags: ["fabric", "forge", "tr7zw Protective License"]
 Cover: "/images/MiniMePet-banner.png"
 githubuser: "tr7zw"
 githubrepo: "MiniMePets"
