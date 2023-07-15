@@ -14,6 +14,7 @@ summary: "Add custom NBT tags to Items/Tiles/Entities without NMS! Modify NBT an
 spigotid: 7939
 bstats: 1058
 bstatsname: "ItemNBTAPI"
+sonarcloud: "tr7zw_Item-NBT-API"
 pin: true
 ---
 # Item-NBT-API
