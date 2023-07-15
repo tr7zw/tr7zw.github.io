@@ -9,6 +9,8 @@ githubrepo: "GraphUtil"
 license: "tr7zw Protective License"
 licenselink: "https://github.com/tr7zw/DisguiseHeads/blob/1.19/LICENSE"
 modrinth: "graphutil"
+curseforge: "mc-mods/graphutil"
+curseforgeid: 681955
 summary: "Adds more settings to the F3 graphs"
 pin: false
 ---
