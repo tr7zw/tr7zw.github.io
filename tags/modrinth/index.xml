@@ -6,10 +6,19 @@
     <description>Recent content in Modrinth on tr7zw&#39;s project space</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 17 Aug 2023 21:33:40 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 26 Aug 2023 15:35:46 +0000</lastBuildDate>
     
 	<atom:link href="https://tr7zw.github.io/tags/modrinth/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Exordium - 1.1.4-1.20.1 - Fabric released</title>
+      <link>https://tr7zw.github.io/post/exordium-1.1.4-1.20.1-fabric/</link>
+      <pubDate>Sat, 26 Aug 2023 15:35:46 +0000</pubDate>
+      
+      <guid>https://tr7zw.github.io/post/exordium-1.1.4-1.20.1-fabric/</guid>
+      <description>Click to get this release</description>
+    </item>
     
     <item>
       <title>ItemSwapper - Plugin 0.2.1 for Spigot/Paper servers released</title>
