@@ -6,7 +6,7 @@
     <description>Recent content in Tags on tr7zw&#39;s project space</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 26 Aug 2023 15:35:46 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 08 Sep 2023 11:25:55 +0000</lastBuildDate>
     
 	<atom:link href="https://tr7zw.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,7 +14,7 @@
     <item>
       <title>exordium</title>
       <link>https://tr7zw.github.io/tags/exordium/</link>
-      <pubDate>Sat, 26 Aug 2023 15:35:46 +0000</pubDate>
+      <pubDate>Fri, 08 Sep 2023 11:25:55 +0000</pubDate>
       
       <guid>https://tr7zw.github.io/tags/exordium/</guid>
       <description></description>
@@ -23,7 +23,7 @@
     <item>
       <title>fabric</title>
       <link>https://tr7zw.github.io/tags/fabric/</link>
-      <pubDate>Sat, 26 Aug 2023 15:35:46 +0000</pubDate>
+      <pubDate>Fri, 08 Sep 2023 11:25:55 +0000</pubDate>
       
       <guid>https://tr7zw.github.io/tags/fabric/</guid>
       <description></description>
@@ -32,7 +32,7 @@
     <item>
       <title>Modrinth</title>
       <link>https://tr7zw.github.io/tags/modrinth/</link>
-      <pubDate>Sat, 26 Aug 2023 15:35:46 +0000</pubDate>
+      <pubDate>Fri, 08 Sep 2023 11:25:55 +0000</pubDate>
       
       <guid>https://tr7zw.github.io/tags/modrinth/</guid>
       <description></description>
@@ -41,7 +41,7 @@
     <item>
       <title>1.20.1</title>
       <link>https://tr7zw.github.io/tags/1.20.1/</link>
-      <pubDate>Sat, 26 Aug 2023 15:35:42 +0000</pubDate>
+      <pubDate>Fri, 08 Sep 2023 11:25:51 +0000</pubDate>
       
       <guid>https://tr7zw.github.io/tags/1.20.1/</guid>
       <description></description>
@@ -50,9 +50,18 @@
     <item>
       <title>Curseforge</title>
       <link>https://tr7zw.github.io/tags/curseforge/</link>
-      <pubDate>Sat, 26 Aug 2023 15:35:42 +0000</pubDate>
+      <pubDate>Fri, 08 Sep 2023 11:25:51 +0000</pubDate>
       
       <guid>https://tr7zw.github.io/tags/curseforge/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>forge</title>
+      <link>https://tr7zw.github.io/tags/forge/</link>
+      <pubDate>Fri, 08 Sep 2023 11:25:51 +0000</pubDate>
+      
+      <guid>https://tr7zw.github.io/tags/forge/</guid>
       <description></description>
     </item>
     
@@ -80,15 +89,6 @@
       <pubDate>Fri, 07 Jul 2023 20:00:58 +0000</pubDate>
       
       <guid>https://tr7zw.github.io/tags/3dskinlayers/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>forge</title>
-      <link>https://tr7zw.github.io/tags/forge/</link>
-      <pubDate>Fri, 07 Jul 2023 20:00:53 +0000</pubDate>
-      
-      <guid>https://tr7zw.github.io/tags/forge/</guid>
       <description></description>
     </item>
     
