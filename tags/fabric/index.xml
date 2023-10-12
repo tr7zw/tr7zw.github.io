@@ -6,10 +6,19 @@
     <description>Recent content in fabric on tr7zw&#39;s project space</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 24 Sep 2023 21:21:27 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 11 Oct 2023 19:37:05 +0000</lastBuildDate>
     
 	<atom:link href="https://tr7zw.github.io/tags/fabric/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>ItemSwapper - v0.5.4-1.20.2 - Fabric released</title>
+      <link>https://tr7zw.github.io/post/itemswapper-v0.5.4-1.20.2-fabric/</link>
+      <pubDate>Wed, 11 Oct 2023 19:37:05 +0000</pubDate>
+      
+      <guid>https://tr7zw.github.io/post/itemswapper-v0.5.4-1.20.2-fabric/</guid>
+      <description>Click to get this release</description>
+    </item>
     
     <item>
       <title>3d Skin Layers - 1.5.6-1.20.2 - Fabric released</title>
