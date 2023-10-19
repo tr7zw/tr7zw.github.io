@@ -6,10 +6,28 @@
     <description>Recent content in Curseforge on tr7zw&#39;s project space</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 11 Oct 2023 19:37:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 18 Oct 2023 17:10:37 +0000</lastBuildDate>
     
 	<atom:link href="https://tr7zw.github.io/tags/curseforge/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>PaperDoll - 1.1.2-1.20.2 - Fabric released</title>
+      <link>https://tr7zw.github.io/post/paperdoll-fabric-1.1.2-mc1.20.2-1.20.2/</link>
+      <pubDate>Wed, 18 Oct 2023 17:10:37 +0000</pubDate>
+      
+      <guid>https://tr7zw.github.io/post/paperdoll-fabric-1.1.2-mc1.20.2-1.20.2/</guid>
+      <description>Click to get this release</description>
+    </item>
+    
+    <item>
+      <title>PaperDoll - 1.1.2-1.20.2 - Forge released</title>
+      <link>https://tr7zw.github.io/post/paperdoll-forge-1.1.2-mc1.20.2-1.20.2/</link>
+      <pubDate>Wed, 18 Oct 2023 17:10:34 +0000</pubDate>
+      
+      <guid>https://tr7zw.github.io/post/paperdoll-forge-1.1.2-mc1.20.2-1.20.2/</guid>
+      <description>Click to get this release</description>
+    </item>
     
     <item>
       <title>ItemSwapper - v0.5.4-1.20.2 - Fabric released</title>
