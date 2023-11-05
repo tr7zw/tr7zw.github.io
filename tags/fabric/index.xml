@@ -6,10 +6,37 @@
     <description>Recent content in fabric on tr7zw&#39;s project space</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 11 Oct 2023 19:37:05 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 01 Nov 2023 20:58:44 +0000</lastBuildDate>
     
 	<atom:link href="https://tr7zw.github.io/tags/fabric/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>FirstPersonMod - 2.2.4-1.20.2 - Fabric released</title>
+      <link>https://tr7zw.github.io/post/firstpersonmod-2.2.4-1.20.2-fabric/</link>
+      <pubDate>Wed, 01 Nov 2023 20:58:44 +0000</pubDate>
+      
+      <guid>https://tr7zw.github.io/post/firstpersonmod-2.2.4-1.20.2-fabric/</guid>
+      <description>Click to get this release</description>
+    </item>
+    
+    <item>
+      <title>FirstPersonMod - 2.2.4-1.20.1 - Fabric released</title>
+      <link>https://tr7zw.github.io/post/firstpersonmod-2.2.4-1.20.1-fabric/</link>
+      <pubDate>Wed, 01 Nov 2023 20:55:11 +0000</pubDate>
+      
+      <guid>https://tr7zw.github.io/post/firstpersonmod-2.2.4-1.20.1-fabric/</guid>
+      <description>Click to get this release</description>
+    </item>
+    
+    <item>
+      <title>WaveyCapes - 1.4.1-1.20.2 - Fabric released</title>
+      <link>https://tr7zw.github.io/post/waveycapes-1.4.1-1.20.2-fabric/</link>
+      <pubDate>Tue, 31 Oct 2023 23:32:37 +0000</pubDate>
+      
+      <guid>https://tr7zw.github.io/post/waveycapes-1.4.1-1.20.2-fabric/</guid>
+      <description>Click to get this release</description>
+    </item>
     
     <item>
       <title>ItemSwapper - v0.5.4-1.20.2 - Fabric released</title>
