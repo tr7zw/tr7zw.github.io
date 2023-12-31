@@ -6,10 +6,28 @@
     <description>Recent content in 1.18.2 on tr7zw&#39;s project space</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 08 Apr 2023 22:42:41 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 31 Dec 2023 17:41:15 +0000</lastBuildDate>
     
 	<atom:link href="https://tr7zw.github.io/tags/1.18.2/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>3d Skin Layers - 1.6.0-1.18.2 - Forge released</title>
+      <link>https://tr7zw.github.io/post/skinlayers3d-forge-1.6.0-mc1.18.2-1.18.2/</link>
+      <pubDate>Sun, 31 Dec 2023 17:41:15 +0000</pubDate>
+      
+      <guid>https://tr7zw.github.io/post/skinlayers3d-forge-1.6.0-mc1.18.2-1.18.2/</guid>
+      <description>Click to get this release</description>
+    </item>
+    
+    <item>
+      <title>3d Skin Layers - 1.6.0-1.18.2 - Fabric released</title>
+      <link>https://tr7zw.github.io/post/skinlayers3d-fabric-1.6.0-mc1.18.2-1.18.2/</link>
+      <pubDate>Sun, 31 Dec 2023 17:41:07 +0000</pubDate>
+      
+      <guid>https://tr7zw.github.io/post/skinlayers3d-fabric-1.6.0-mc1.18.2-1.18.2/</guid>
+      <description>Click to get this release</description>
+    </item>
     
     <item>
       <title>ItemSwapper - v0.4.0-1.18.2 - Fabric released</title>
