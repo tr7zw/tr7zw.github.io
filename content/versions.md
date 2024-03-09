@@ -39,6 +39,8 @@ summary: "Version support overview"
 - Fabric is more important than NeoForge
 - NeoForge is more important than Forge
 - Sodium+Iris is more important than Optifine
-- Latest version is more important than older versions(1.19>1.18)
+- Anything involving Sinytra Connector will be ignored
+- Anything involving illegal copies of Minecraft will be ignored
+- Latest version is more important than older versions(1.20>1.19)
 - Legacy versions(1.8, 1.12, 1.16) are not a priority and most mods will not be backported to them
 - Latest minor version is always more important than older minor versions(1.19.4>1.19.2)
